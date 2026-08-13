@@ -1,0 +1,1473 @@
+Age , Gender,BMI,Children ,Smoker?, State ,Hospital_Bill
+47yrs,Male,45.3kg/m2,none,Yes,Rivers,₦12854792.7
+33.0,Female,"22.7,","0,",N,Kaduna,₦32976705.91
+"64,",F, 39.0 ,none,yes, Lagos ,"24,127,691"
+age_36,M,28.9,"3,",?,Oyo,"10,122,887"
+"49,",Female,"42.7,",2.0,Yes,KANO,NULL
+"34,",M,33.2,1,Yes,Abuja,₦8392268.25
+33.0,M,unknown,2,No, Lagos ,"7,892,204"
+28yrs,Male,unknown,,smoker,Oyo,4758027.0 NGN
+age_62,Female, 39.2 ,,yes,Lagos,₦ 20206206.6 
+?,M, 29.7 ,none,smoker,Kano,"6,535,565"
+31yrs,Male,unknown,three,Y,Kaduna,10199187.0
+age_57,Male,"34.3,",2.0,yes,KANO,₦19836085.57
+"44,",unknown,??,2.0,No,Kano,₦ 69301477.65 
+"59,",fem,36.5kg/m2,"1,",Y,Abuja,42431846.49
+18yrs,unknown,??,1,Yes,Oyo,3301645.65 NGN
+age_60,F,18.3,0,?,Lagos,NULL
+age_19,Male,unknown,0.0,Yes,KANO,"54,329,108"
+?,M, 30.1 ,none,yes,abuja,"12,615,070"
+age_22,fem, 35.6 ,three,no,KANO,NULL
+?,, 31.1 ,three,Y,Enugu,NULL
+ 32 ,Male,41.1kg/m2,,No,abuja,5984761.5
+ 19 ,fem,??,three,Y,?,"2,591,678"
+21yrs,male,unknown,three,Yes,Enugu,₦26913159.0
+?,male,32.3kg/m2,1.0,yes,Enugu,12094146.0
+48.0,Female,31.4kg/m2,three,yes,KANO,13446090.83 NGN
+50.0,F,"27.4,",,N, Lagos ,NULL
+51yrs,,24.4,,no,Abuja,"17,280,150"
+40yrs,Male,unknown,,N,Oyo,₦ 12378426.45 
+?,unknown,??,none,no,Enugu,₦ 3192646.58 
+64yrs,fem,??,1,No,Lagos,₦ 21627420.6 
+34yrs,Female,38.0,"3,",Yes,abuja,₦9294672.0
+?,F,17.9kg/m2,three,non-smoker,Rivers,₦7674750.6
+37yrs,male, 36.2 ,,N,KANO,NULL
+"62,",Male,26.7kg/m2,0.0,Y,Abuja,42151999.58
+?,Male,"34.9,",none,N,Enugu,NULL
+"27,",male,30.5,none,N,Rivers,₦3741033.0
+ 37 ,male,"34.8,",2,no,Rivers,"59,754,778"
+ 21 ,fem,??,0.0,N,?,"2,864,291"
+40yrs,Female,unknown,"1,",Y,Enugu,"10,615,784"
+ 28 ,fem,??,,yes,abuja,NULL
+age_28,Male,35.4,,?,Oyo,4903269.97
+?,fem,??,"1,",yes,Kaduna,₦5650325.7
+ 38 ,male,"40.6,",none,N,Oyo,NULL
+?,male,??,three,Yes,Rivers,NULL
+?,Male,??,three,No,Enugu,43712040.45
+?,Male,unknown,1,Yes,Abuja,9832605.53 NGN
+"29,",F,"38.8,",3.0,N,Kano,₦7707385.05
+"28,",Female, 37.1 ,"1,",yes,Enugu,₦ 4915741.5 
+21yrs,Female,??,"1,",No,abuja,₦ 3154620.0 
+18.0,Male,"34.4,","0,",smoker,Enugu,₦ 1706204.55 
+age_23,fem,"23.8,",0,?,KANO,₦3592757.33
+62.0,M,unknown,three,No,?,20332507.35 NGN
+61.0,fem, 31.2 ,"0,",Y,KANO,NULL
+age_44,,25.0,three,smoker, Lagos ,₦11435277.0
+37yrs,male, 36.2 ,,N,KANO,NULL
+age_44,F,"37.0,","1,",no,abuja,"12,034,703"
+63yrs,,35.1kg/m2,,N,Enugu,₦70583298.15
+ 63 ,fem, 36.3 ,0,smoker,Kaduna,NULL
+age_35,unknown,??,2.0,Yes, Lagos ,₦ 9603437.03 
+?,fem,30.6kg/m2,2,Yes,Enugu,10885084.65 NGN
+?,M,30.1,none,non-smoker,Lagos,₦ 3305207.77 
+ 40 ,Male,unknown,none,Yes,Kano,₦29166398.7
+47yrs,unknown,??,three,yes,Kano,₦ 66303980.4 
+?,M,"23.2,",,non-smoker,KANO,₦ 37622651.76 
+37.0,Male,46.5kg/m2,none,Yes,Kaduna,₦9653435.55
+26.0,M,??,"0,",yes,Rivers,NULL
+"20,",M,29.7kg/m2,,?,?,2654297.47
+54.0,,??,none,non-smoker,Lagos,NULL
+53.0,Female,??,none,yes,?,16745352.0
+age_56,F,25.3,0,Y,Lagos,"16,605,802"
+44yrs,unknown, 29.7 ,2.0,Yes,Kano,₦48162994.23
+ 54 ,,unknown,,yes,Kano,₦ 18719563.43 
+?,F,30.2,,yes,KANO,₦ 15347249.85 
+ 25 ,F,unknown,,Yes,Kano,"63,168,353"
+?,F,"27.9,",0,no,?,25327386.0
+18.0,unknown,unknown,,No, Lagos ,"2,563,389"
+?,fem,29.1kg/m2,,N,Lagos,NULL
+"25,",,"32.2,",three,?,Enugu,27327242.09
+27.0,unknown,28.5kg/m2,0,smoker,Abuja,NULL
+?,Female,"36.9,",,non-smoker,Abuja,₦20831952.75
+40yrs,male,27.4,,?,Oyo,NULL
+62.0,F,??,three,no,?,"21,065,215"
+"38,",F,21.1,"3,",Y,Abuja,9978793.2 NGN
+age_30,,unknown,1.0,non-smoker,KANO,6224604.0
+ 52 ,M,46.8,5.0,Y,KANO,"18,888,802"
+age_51,M,42.9kg/m2,2,smoker,Rivers,₦71194341.0
+"42,",Female, 29.0 ,"1,",non-smoker,Enugu,10575963.0 NGN
+"43,",,unknown,three,yes,Kaduna,₦ 12783004.5 
+"46,",Male,??,three,non-smoker,Lagos,14116507.5
+44.0,M,31.4kg/m2,none,Y,?,₦ 59334741.75 
+"41,",fem,21.8kg/m2,none,Yes,?,₦9408715.8
+ 63 ,fem,"30.8,",0.0,yes,Lagos,20085838.5
+"64,",F,"24.7,",,no,Abuja,NULL
+ 62 ,unknown, 37.4 ,"0,",No,Lagos,₦19469037.0
+age_36,,unknown,three,Y,Rivers,"7,901,727"
+?,F,35.0,1.0,smoker,Enugu,61551332.1 NGN
+age_57,unknown, 30.5 ,"0,",Y,KANO,"17,761,163"
+age_25,,35.6kg/m2,,smoker,?,3801590.63 NGN
+19.0,unknown, 21.7 ,0.0,Yes,Kaduna,NULL
+ 25 ,Male,24.3kg/m2,none,?,Enugu,6587478.0
+age_19,unknown,unknown,"1,",no,Enugu,4078919.62 NGN
+?,male, 29.6 ,,Y,Abuja,NULL
+33.0,unknown,unknown,three,no,Oyo,₦9980682.9
+34.0,M,27.8,"1,",Yes,Enugu,₦ 30014450.48 
+"48,",unknown,28.0,none,N,KANO,NULL
+"52,",,"33.3,","2,",N, Lagos ,NULL
+19yrs,fem,unknown,three,non-smoker,abuja,"1,892,788"
+age_21,Female,25.7kg/m2,,non-smoker,Enugu,₦4919802.83
+ 47 ,Male,23.6,1.0,smoker,Kano,₦ 12809506.5 
+ 44 ,unknown,27.5kg/m2,1,?, Lagos ,11440489.5 NGN
+?,F,??,"2,",N, Lagos ,₦ 56226673.95 
+age_23,Male,??,none,Yes,Lagos,5396394.0 NGN
+41.0,,"31.6,","0,",Yes,Oyo,"9,279,190"
+"27,",Female,??,three,?,abuja,NULL
+?,male,"28.3,",none,non-smoker,Abuja,27050951.85 NGN
+?,fem,33.2,three,yes,Oyo,₦6088068.67
+19yrs,F,"27.6,","0,",non-smoker,?,"1,878,610"
+"62,",,31.5,three,smoker,Abuja,₦40501477.09
+60yrs,fem,29.6,"0,",Y,Kaduna,"19,096,499"
+20.0,unknown,35.6,"3,",?,Oyo,₦ 56198015.62 
+age_58,unknown,"32.0,",1,yes,Rivers,17919938.85
+"18,",unknown,??,,N,Kaduna,2411265.15
+"40,",Female,"29.6,",,smoker,Enugu,NULL
+?,,??,"1,",non-smoker,Lagos,"63,316,707"
+28yrs,unknown,"33.0,",none,?,Enugu,6674193.0
+35.0,unknown, 27.7 ,"3,",Y,Lagos,"9,621,267"
+59yrs,male,"37.4,",,Y,abuja,₦ 32695500.6 
+ 26 ,Female,??,three,Y,Kano,25565012.1 NGN
+age_26,Female,"28.8,",three,Y,Rivers,₦ 5078098.73 
+?,F,36.4kg/m2,"1,",smoker, Lagos ,NULL
+?,,19.2kg/m2,1.0,no,Lagos,₦ 12941311.65 
+age_58,male,??,three,No,Enugu,17755740.0 NGN
+age_35,,unknown,2.0,Yes,Oyo,37372569.39 NGN
+"31,",male, 36.3 ,"2,",Y,Abuja,₦58066500.0
+?,M,"27.8,",0.0,Y,Kaduna,2453600.47
+?,Female,32.4,"3,",Yes,Lagos,₦ 21885948.07 
+ 53 ,fem,21.4,three,N,Oyo,₦15098119.5
+?,M,??,"2,",?,Enugu,9470638.5
+57.0,,22.2,0,No,Kaduna,NULL
+ 43 ,male,unknown,"2,",N, Lagos ,32821230.0
+age_33,F,32.9,three,Yes,Kano,₦8062557.0
+57yrs,Female,20.1,none,N,Rivers,"18,048,489"
+58.0,male,41.9kg/m2,,no,Abuja,36341005.86
+age_26,M, 29.6 ,three,N,abuja,"37,007,495"
+"52,",unknown,??,none,no,KANO,"36,590,434"
+49.0,fem,31.9kg/m2,"5,",Y,Abuja,17329356.0
+ 35 ,Male,34.3,none,N, Lagos ,NULL
+ 33 ,fem,"24.8,",0,Y,Kano,₦26856790.57
+54yrs,, 47.4 ,none,Y,Abuja,95655642.02
+ 19 ,male, 25.6 ,"1,",No,Lagos,₦3332346.67
+31.0,,32.8kg/m2,2.0,smoker,Kaduna,7991100.37 NGN
+?,unknown,26.9kg/m2,0.0,No,Oyo,"32,661,483"
+?,male,"40.6,",three,yes,Lagos,68553033.53
+"20,",Female,unknown,0,no,KANO,"2,813,016"
+age_21,M,33.6kg/m2,,No,Kano,NULL
+ 42 ,Male,"29.5,",,yes,?,11460463.8
+"27,",Female,30.6kg/m2,three,non-smoker, Lagos ,"25,194,618"
+64yrs,Female,31.8kg/m2,three,?,Rivers,24103627.12
+?,unknown,unknown,1.0,No,Abuja,"15,128,769"
+25.0,male,26.7kg/m2,three,N,abuja,7316971.58
+?,Female,"32.5,",none,N,Enugu,₦9357447.0
+41.0,M,??,3.0,smoker,Enugu,₦ 59396110.8 
+18yrs,Male,??,0.0,N,abuja,₦ 1724093.85 
+24yrs,unknown, 27.7 ,0,Y,KANO,NULL
+39.0,fem,42.7,three,No,Lagos,8636120.18
+47.0,M,33.9,"3,",No,KANO,"15,172,513"
+?,male,??,0,non-smoker,Rivers,16448169.0
+?,male,??,0.0,yes,Abuja,₦ 24172956.75 
+?,unknown,31.1,three,?,Rivers,6520535.03 NGN
+58.0,M,33.4kg/m2,0,Yes,Abuja,₦18347420.4
+ 45 ,,28.7,,?,Kaduna,₦12041952.0
+"27,",unknown,unknown,0.0,N,Enugu,NULL
+age_31,,26.6,none,Y,Abuja,₦ 5636767.2 
+age_49,Female,??,none,N,Rivers,"15,404,190"
+age_57,M,25.7kg/m2,"2,",smoker,Rivers,₦ 18943748.4 
+age_25,unknown,20.8kg/m2,,Y,Abuja,NULL
+age_48,Male,"27.4,",1.0,?,abuja,14171073.6 NGN
+ 24 ,fem, 31.1 ,0,N,Rivers,NULL
+"20,",,28.8,none,no,KANO,₦3685816.73
+?,F,"23.8,","0,",Yes, Lagos ,40389771.6 NGN
+59yrs,Female,34.8,"2,",no,abuja,"55,365,912"
+ 22 ,F, 19.9 ,"3,",N,?,₦6008133.75
+27.0,,45.9kg/m2,"2,",N,?,NULL
+"51,",Male,??,,smoker,Rivers,₦13197889.5
+62.0,F,??,three,no,?,"21,065,215"
+"41,",F,unknown,,non-smoker,KANO,₦11037263.47
+?,male,??,0,No,Kano,2980400.1 NGN
+55.0,male,unknown,1.0,smoker,KANO,"16,187,940"
+57.0,Male,33.6,1.0,Y,?,17917699.05
+"57,",Female,42.1,"1,",?,Rivers,₦ 73013276.55 
+"20,",male,"32.4,",1.0,yes, Lagos ,NULL
+48yrs,F,32.3kg/m2,none,Y,Lagos,NULL
+62yrs,,39.2kg/m2,"0,",N,Abuja,20206290.0
+48.0,Male,30.2,,No,KANO,NULL
+20yrs,,35.3,none,yes,Abuja,₦41586433.12
+ 20 ,M,33.0kg/m2,,?,Rivers,2970105.0 NGN
+ 46 ,Male,27.7kg/m2,"0,",non-smoker, Lagos ,₦12039999.9
+"55,",unknown,unknown,none,smoker, Lagos ,NULL
+age_28,Male, 38.1 ,three,no,Rivers,₦4034243.1
+?,M,??,"2,",?,Enugu,9470638.5
+41.0,F,40.3kg/m2,three,Yes,Rivers,₦ 8563746.6 
+?,Female,40.2kg/m2,,N, Lagos ,"3,326,204"
+"39,",fem,??,3.0,Y,abuja,₦11127783.0
+?,,29.9,,N,KANO,13482238.12
+age_60,Male,unknown,0,yes,Rivers,"19,825,642"
+38yrs,unknown,unknown,three,Yes,Kano,₦9100690.12
+50yrs,male,??,,no,abuja,15160830.9 NGN
+age_24,F,30.1,three,No, Lagos ,₦6352390.5
+?,fem, 37.0 ,2.0,No, Lagos ,₦74366493.6
+52yrs,Male, 30.9 ,none,?,KANO,₦ 34568349.24 
+age_22,,??,none,Yes,Oyo,₦ 3964902.75 
+?,male,23.7kg/m2,three,N,Lagos,NULL
+27yrs,Female,36.1kg/m2,"0,",Yes,?,55700847.3 NGN
+?,M,??,,Yes,Lagos,6846287.18
+ 38 ,unknown,19.5,"2,",non-smoker,abuja,10399863.38 NGN
+ 23 ,Male, 27.4 ,1.0,non-smoker,Kano,₦4183586.1
+age_47,Female,29.8,3,Y,Oyo,37964233.5 NGN
+"24,",,28.5kg/m2,0.0,No,Kaduna,₦ 52721292.72 
+"36,",Female,"28.0,",none,non-smoker,Kano,₦ 31160441.62 
+?,,??,"1,",non-smoker,Lagos,"63,316,707"
+ 30 ,male,unknown,0.0,no,Kano,₦ 6206284.05 
+45yrs,Female,??,none,yes,Abuja,₦12773638.05
+age_23,M, 31.4 ,0,no,Rivers,NULL
+age_40,fem,36.2,0,no,Kano,8880156.15 NGN
+"54,",M,"30.0,",0.0,Y,Lagos,₦36714717.77
+58.0,Female, 33.1 ,0.0,No,Kaduna,17772211.5
+"30,",M,unknown,1.0,N,Oyo,6226543.05 NGN
+47.0,male, 28.2 ,3,Yes,Rivers,₦37372831.28
+54yrs,Male,34.2kg/m2,none,No, Lagos ,66391124.85
+39.0,,26.2kg/m2,1,non-smoker,abuja,9185353.2 NGN
+ 52 ,male,unknown,"0,",Yes,Abuja,NULL
+45yrs,male,unknown,2.0,smoker,abuja,NULL
+?,Female,27.0,,Yes,?,43425703.8 NGN
+?,unknown, 36.9 ,none,Yes, Lagos ,2875977.6
+ 50 ,unknown,37.1kg/m2,"1,",non-smoker,Enugu,NULL
+29.0,unknown,??,"2,",N,Rivers,NULL
+"41,",M,??,2.0,Y,abuja,₦11623734.6
+"33,",fem,"38.9,",,yes,KANO,₦8958567.0
+?,unknown, 27.4 ,2.0,non-smoker,KANO,NULL
+age_28,fem,27.0kg/m2,2.0,Yes,Oyo,6652641.3
+age_36,Male,"34.4,",,yes,Rivers,₦56613863.55
+48yrs,Female,31.1kg/m2,,?,abuja,NULL
+age_26,Female,"28.8,",three,Y,Rivers,₦ 5078098.73 
+?,M,23.7kg/m2,1,smoker, Lagos ,32515925.17 NGN
+age_38,male,"37.7,",three,?,abuja,"8,096,425"
+?,F, 38.0 ,2.0,Y,Rivers,NULL
+ 18 ,,21.7,0,smoker,Oyo,NULL
+28yrs,M,33.8,"0,",?, Lagos ,29510003.59 NGN
+"34,",Female,??,none,yes,Oyo,"5,902,770"
+51.0,male,39.5kg/m2,1.0,Yes,Lagos,"14,820,102"
+?,unknown,38.1,3.0,no,Kaduna,₦ 30694496.49 
+?,Male,31.5,none,Y,KANO,2816894.1
+53yrs,Male,"22.6,","3,",?,Kaduna,₦ 37310077.35 
+40.0,male, 34.1 ,1.0,N,Kaduna,9900308.92 NGN
+"38,",M,27.6,three,No,Oyo,₦ 8075304.0 
+59.0,F, 41.1 ,1.0,no,KANO,"73,455,371"
+ 49 ,M,30.9kg/m2,0.0,non-smoker,Abuja,₦59591421.0
+?,Male,20.1kg/m2,"2,",smoker,Lagos,₦ 28151606.55 
+?,unknown,unknown,"0,",non-smoker,Lagos,"4,606,213"
+?,unknown,32.1,three,smoker,Lagos,NULL
+ 45 ,unknown,40.0,none,smoker,Enugu,"14,557,002"
+19yrs,Female, 24.5 ,1,non-smoker,abuja,₦ 4063667.85 
+?,Female, 30.7 ,2.0,yes,Oyo,12466258.72 NGN
+20yrs,F,31.8kg/m2,"2,",smoker,?,4584582.15 NGN
+?,unknown, 34.1 ,0,Yes,Abuja,1705516.5
+?,Female,40.8,three,non-smoker,Kano,18728701.35 NGN
+ 45 ,F,"24.0,","2,",non-smoker,Kaduna,12906725.47 NGN
+47yrs,F,unknown,2,non-smoker,Abuja,₦14573761.5
+"41,",F, 28.4 ,three,No,KANO,₦ 9997028.93 
+62.0,Male,unknown,none,smoker,abuja,20767195.8 NGN
+age_32,,31.5kg/m2,"1,",yes, Lagos ,₦6114745.5
+ 51 ,, 21.6 ,"1,",N,Kaduna,"14,782,697"
+age_59,unknown, 29.7 ,2,non-smoker,Enugu,19388829.0
+?,,20.6,three,Y,abuja,13897195.5
+?,unknown,"24.3,",0.0,N,Lagos,₦14795207.7
+ 35 ,male,??,three,no,Abuja,7841983.13 NGN
+58yrs,Male,28.6kg/m2,,yes,abuja,17603818.57
+?,,"29.7,",three,smoker, Lagos ,₦ 29900187.0 
+61yrs,M,unknown,4,Y,Oyo,"54,870,423"
+?,,"27.8,",none,No, Lagos ,"56,744,586"
+"21,",,"22.1,","0,",No,Rivers,3878775.97
+ 28 ,F,25.9,1,non-smoker,Kano,₦6200462.47
+18yrs,Female,unknown,1,?,?,₦2591310.0
+?,M, 22.1 ,0,N,Kano,"15,865,630"
+"36,",Female,unknown,three,non-smoker,?,NULL
+?,unknown,26.4kg/m2,,No,Enugu,30223984.35
+age_29,fem,29.7kg/m2,three,non-smoker,Rivers,27236814.0 NGN
+"54,",male, 25.5 ,1,Yes,?,38275670.45 NGN
+age_19,, 30.0 ,0,no,Kaduna,₦49961326.2
+?,,unknown,0,yes,Kaduna,25621620.0
+age_40,Male,unknown,,N,Oyo,"8,123,492"
+ 58 ,M,25.2,0.0,Yes, Lagos ,17896687.88
+age_18,male,28.2kg/m2,"0,",?,Lagos,3301246.27
+62.0,male, 39.9 ,"0,",N,Kaduna,₦19474312.05
+age_38,M, 19.9 ,"1,",yes,Abuja,₦8783853.75
+"45,",F,22.9kg/m2,none,?,KANO,31647831.07 NGN
+?,unknown,unknown,0.0,smoker,Enugu,₦6277646.85
+53.0,Male,36.9kg/m2,3,yes,Enugu,₦ 69992163.6 
+age_32,M,37.3,1,smoker,Lagos,₦ 7001411.47 
+45yrs,M,unknown,0.0,yes,Kaduna,NULL
+ 30 ,,??,none,non-smoker,abuja,₦ 61398644.25 
+age_22,fem, 35.6 ,three,no,KANO,NULL
+34.0,F,27.7kg/m2,three,no,Kaduna,₦ 6622738.2 
+62.0,male, 39.9 ,"0,",N,Kaduna,₦19474312.05
+60yrs,fem,32.5,0.0,N,Abuja,NULL
+age_42,, 24.6 ,,no,KANO,NULL
+?,fem,41.8kg/m2,,No, Lagos ,NULL
+?,,unknown,"3,",smoker,Lagos,₦5859190.5
+ 18 ,fem,29.2kg/m2,"0,",No,?,NULL
+41.0,Female,"37.1,",three,Yes,Rivers,11057658.0 NGN
+ 40 ,unknown,32.8,,smoker,?,58687998.38
+?,Female,32.4,"3,",Yes,Lagos,₦ 21885948.07 
+?,F,28.3,0.0,N,Kano,₦20655146.85
+ 27 ,male,"32.7,",none,no, Lagos ,"3,745,557"
+age_26,F,unknown,three,No, Lagos ,3453450.0
+"61,",F,"22.0,",0.0,smoker,abuja,"20,424,538"
+"27,",F,23.2kg/m2,,Yes,Lagos,5342833.35
+"55,",fem,"25.4,",3,yes, Lagos ,"19,570,999"
+35.0,M,34.8kg/m2,none,non-smoker,Abuja,7869070.5
+ 55 ,Female,30.5kg/m2,none,Y,Kaduna,16056705.0 NGN
+48.0,male,25.9,3,No,?,36271400.25 NGN
+48.0,,41.2kg/m2,"4,",smoker,Kaduna,₦ 16550492.55 
+?,Male,"24.3,",none,smoker,Rivers,₦ 3225703.5 
+ 55 ,F,unknown,,smoker,Oyo,₦66635704.5
+48.0,Male,36.6kg/m2,0,non-smoker,Enugu,₦ 13006786.88 
+"43,",M,35.7,three,No,abuja,28716864.78
+age_23,fem,unknown,,N,Rivers,₦ 2736428.1 
+35.0,fem,39.7kg/m2,three,N,Kano,29245078.75
+age_46,F,38.2,three,?,KANO,12520746.45
+45.0,unknown,22.9,"0,",?,Lagos,₦52604061.78
+ 25 ,fem, 28.6 ,,?,Kano,"4,820,433"
+?,Male, 33.9 ,three,non-smoker,Abuja,17980752.3 NGN
+ 30 ,Male,unknown,1,yes,abuja,28444757.88
+?,Male,"32.7,",,yes,KANO,₦ 5387220.0 
+"39,",Male,??,none,Y,Lagos,12895241.7
+"44,",male,??,three,smoker,abuja,11436945.0 NGN
+62yrs,Male,"26.3,",0.0,non-smoker,?,₦ 41713087.65 
+ 47 ,Male,23.6,1.0,smoker,Kano,₦ 12809506.5 
+?,unknown,27.7,none,Yes,?,₦ 44284748.4 
+51.0,M,unknown,none,No,Rivers,14791537.5
+age_19,fem,28.4,1,no,?,NULL
+"52,",fem,??,three,?,Enugu,₦ 39700646.05 
+age_40,,26.3,none,Yes,Kaduna,NULL
+"47,",male,36.0kg/m2,1.0,smoker,abuja,NULL
+?,Female,??,1,No,?,₦ 15692969.1 
+49yrs,F,??,1,N,Enugu,₦13773255.0
+43.0,F,35.3kg/m2,2.0,No,Abuja,"28,209,218"
+35yrs,, 28.0 ,none,yes,Oyo,"30,352,282"
+32yrs,unknown,46.5kg/m2,none,No,?,7029583.05
+56.0,Female, 39.8 ,0,no,Enugu,16636076.7 NGN
+63.0,Male,unknown,"0,",Yes,?,NULL
+58yrs,M,unknown,,?, Lagos ,₦ 17916891.52 
+45yrs,F,??,none,No,Lagos,₦ 14683298.85 
+age_54,Male,21.0,,Y, Lagos ,₦ 16520567.85 
+"51,",F,"34.2,",three,No,Lagos,"14,809,051"
+46yrs,M,"33.3,",,Yes,Oyo,₦12501686.32
+19yrs,unknown,??,three,yes,Abuja,2432010.3 NGN
+?,unknown, 41.5 ,,Y,abuja,NULL
+?,male,unknown,"1,",no, Lagos ,"19,370,989"
+ 29 ,male,??,1.0,Yes,Rivers,30416711.26 NGN
+22yrs,male,??,1.0,yes,Enugu,66752097.3
+ 51 ,,unknown,"0,",N,Lagos,13173703.5 NGN
+?,Female,"25.8,",,non-smoker,Rivers,₦ 4964688.9 
+?,,36.1kg/m2,none,Yes,Enugu,"41,911,931"
+?,M,unknown,none,Yes,Kano,₦ 7325799.0 
+ 53 ,F,"41.5,",three,?,Kano,₦ 14256465.45 
+age_29,fem,21.8,1.0,no,KANO,₦ 24986576.18 
+ 26 ,fem,22.2,three,smoker, Lagos ,4764431.55
+"56,",Male,19.9kg/m2,0.0,?,Enugu,"33,618,973"
+42yrs,M,31.3kg/m2,0.0,no,KANO,"9,538,165"
+ 29 ,fem,31.2,"0,",no,Abuja,₦5915393.1
+30.0,unknown, 31.4 ,none,No, Lagos ,NULL
+?,,29.0,none,N,Kano,16194525.38 NGN
+39.0,male,??,"1,",non-smoker, Lagos ,31623240.0
+?,Female,28.8,,Y,?,3235127.7 NGN
+58.0,male,??,0.0,yes,Rivers,"17,044,925"
+29.0,fem,unknown,0,non-smoker,Kaduna,"5,050,005"
+?,Female,??,,yes,Lagos,NULL
+"28,",M,33.0kg/m2,2.0,non-smoker,KANO,"6,524,193"
+41.0,F,40.3kg/m2,three,Yes,Rivers,₦ 8563746.6 
+43yrs,Female,"35.6,",1.0,No,Lagos,11018589.9 NGN
+ 52 ,M,"24.1,",none,yes,Lagos,NULL
+39yrs,Male,unknown,,Yes,Abuja,₦ 11268400.5 
+age_27,male,unknown,3.0,Y,abuja,₦ 7270380.22 
+?,Male,??,three,No,Enugu,43712040.45
+57yrs,M,??,0.0,no, Lagos ,17763935.62 NGN
+19.0,fem,"25.2,","0,",Yes,Abuja,₦2448054.38
+"18,",male,23.2,three,Yes,Oyo,NULL
+ 53 ,Male, 26.4 ,,N,?,"16,866,565"
+"42,",fem,unknown,three,no,Rivers,10575031.95
+?,male,27.6kg/m2,0.0,Yes,KANO,₦ 36904572.55 
+?,Female,"32.3,",three,yes,Abuja,₦ 17268607.5 
+"33,",fem,18.5,1,no, Lagos ,₦7149033.0
+"42,",fem,unknown,three,yes,Rivers,9711019.5
+age_55,Female,29.9,0.0,N,Lagos,15321954.0 NGN
+?,Male,??,1.0,?,Oyo,"39,588,390"
+"21,",F,unknown,0.0,Yes,Rivers,2301456.75
+"19,",Female, 27.3 ,2,Yes,Enugu,₦33740489.46
+age_19,Female,34.7,,smoker,?,NULL
+29.0,male,38.9,none,no,abuja,5207114.4 NGN
+20yrs,male,unknown,0,non-smoker,Lagos,3392353.2
+age_51,M,23.2,1,smoker,Rivers,₦ 33327172.35 
+51yrs,,39.7kg/m2,1,Y, Lagos ,₦14087019.0
+"25,",Male,41.3kg/m2,0,no,Kaduna,26818351.02 NGN
+age_39,F, 32.3 ,three,?,Lagos,₦9507113.4
+?,Male,28.3kg/m2,,No,Rivers,"8,226,701"
+21.0,unknown,unknown,2,no,Enugu,₦39028425.78
+56.0,male,32.1,1.0,no,abuja,17644501.35
+age_18,unknown, 28.5 ,0.0,smoker,abuja,2568340.5 NGN
+age_61,,unknown,0.0,No,KANO,₦19694405.18
+ 50 ,,25.3,three,Yes,Lagos,12664000.5 NGN
+"45,",unknown,unknown,0.0,yes,Oyo,11172605.93 NGN
+54yrs,Male,"31.6,",none,?,Lagos,₦ 14775648.0 
+45.0,unknown, 25.7 ,none,smoker,Rivers,13652697.0 NGN
+"58,",M,??,0,smoker,Kano,₦ 18646430.02 
+age_26,male,27.3kg/m2,"3,",N, Lagos ,"6,991,930"
+48.0,F,29.7,"0,",No,Oyo,₦11684452.5
+?,Female,??,three,Yes,Rivers,71244741.67
+"41,",male,33.5,three,no,Enugu,8549756.25
+"51,",Female,unknown,0.0,yes,KANO,₦ 14041990.2 
+?,male,24.3,2,?,Enugu,NULL
+43yrs,fem,"25.1,",0,yes,Rivers,₦ 10987572.3 
+?,Female,unknown,none,smoker,Lagos,7402057.5 NGN
+age_40,male,29.8,,N,KANO,NULL
+ 47 ,male,36.2kg/m2,"1,",?,Kaduna,₦12102277.5
+56yrs,unknown,"26.7,",1.0,no,Kano,39163993.58 NGN
+"46,",fem,40.4,three,N,abuja,13099843.88 NGN
+32yrs,Male,37.2,2,yes,?,"7,010,088"
+?,,??,"2,",no,?,NULL
+44yrs,F,unknown,3.0,Yes,Abuja,₦ 13336709.25 
+53.0,F,??,"2,",Y,Kano,16726170.0
+?,male,??,1,Y,abuja,7518706.5
+33.0,male,30.2kg/m2,three,yes,Rivers,NULL
+?,,33.4kg/m2,1,no,KANO,₦ 12360884.4 
+"32,",,33.2kg/m2,three,yes,abuja,9193196.18
+"28,",M, 23.8 ,2,non-smoker,?,"5,771,511"
+ 24 ,fem,23.7kg/m2,,Yes,Enugu,₦3529452.67
+?,, 39.1 ,2,no,Rivers,21352608.0
+57yrs,Female,unknown,"0,",yes,abuja,₦ 17182920.0 
+54.0,fem,"31.9,",,non-smoker,Oyo,16393273.5
+ 27 ,F, 18.0 ,2,Yes,?,NULL
+26.0,Male,29.1kg/m2,three,non-smoker,Kano,₦4354359.75
+49.0,Male,??,three,yes,Oyo,"15,572,218"
+44.0,fem, 38.1 ,none,?,Oyo,10729007.1
+age_50,fem,27.1kg/m2,"1,",yes,Enugu,15159201.37
+"51,",,??,0,smoker, Lagos ,"13,925,343"
+ 19 ,unknown, 28.6 ,5,Y,Oyo,7031695.5 NGN
+"39,",fem, 31.9 ,three,Y,?,10814237.7 NGN
+25.0,male, 22.5 ,,Yes,KANO,NULL
+?,fem, 25.3 ,none,Y,KANO,"28,458,742"
+31.0,F, 27.6 ,2.0,Yes, Lagos ,7546904.33
+26.0,fem,35.4,none,?,?,3483932.7 NGN
+?,fem,unknown,three,Y,Abuja,"15,891,752"
+age_18,fem, 38.2 ,0,yes,Enugu,₦ 54461697.45 
+18.0,Male,"34.4,","0,",smoker,Enugu,₦ 1706204.55 
+"49,",,??,"2,",N,Kano,₦ 15556368.82 
+?,F,"40.5,",0.0,Yes,Oyo,₦2639007.0
+"58,",fem,unknown,0,?,KANO,17018278.5 NGN
+age_35,,35.9,"2,",Yes,?,₦ 8754780.6 
+age_52,,38.4,2.0,N,Lagos,NULL
+18yrs,unknown,??,,N,Kaduna,"1,712,168"
+"31,",,??,"1,",No,Lagos,87856611.72
+"56,",Male,19.9kg/m2,0.0,?,Enugu,"33,618,973"
+57.0,Male,??,none,No,Abuja,33288655.66 NGN
+19.0,Female,??,0.0,smoker,Kaduna,₦ 2623161.0 
+age_50,,??,3.0,smoker,KANO,"15,900,822"
+"20,",F,??,0.0,smoker,Kano,₦ 50213725.73 
+?,fem,"37.6,",,smoker,?,"55,747,746"
+?,,23.1kg/m2,three,N,abuja,NULL
+58.0,male,36.5kg/m2,0.0,smoker, Lagos ,"18,353,759"
+46yrs,Female,27.7,,?,Enugu,₦12348958.2
+43yrs,fem,??,,no,KANO,₦ 11006622.0 
+22.0,fem,"26.8,",0,Y,Lagos,2497499.4 NGN
+?,unknown,unknown,,non-smoker,abuja,₦ 55256200.5 
+60yrs,Male,37.0kg/m2,0.0,Y,Abuja,₦ 19111751.18 
+age_25,Female,unknown,none,N,Kano,4081981.2
+48yrs,Female,27.3,"1,",yes,Rivers,₦14170875.53
+ 18 ,F,39.8,,non-smoker,KANO,₦ 2450942.7 
+18yrs,male,38.3,none,Y,abuja,"2,447,732"
+58.0,unknown,unknown,0.0,non-smoker,Abuja,NULL
+ 20 ,unknown,22.4,,smoker,?,22067615.7
+age_49,male,23.8,none,No,abuja,36160368.83 NGN
+?,Male,"24.0,",2,N,KANO,₦12316650.3
+"45,",F,31.8kg/m2,0,smoker,?,26893955.06 NGN
+?,Female,unknown,"3,",N,Rivers,NULL
+48.0,,"40.1,",0.0,?,Abuja,11706240.75 NGN
+age_41,M,unknown,,yes,Rivers,10898553.75 NGN
+?,unknown,22.6,none,yes,Oyo,4765223.85
+"43,",male, 20.0 ,2,Y,KANO,"29,697,082"
+38.0,F,??,"0,",N,Abuja,₦8101470.75
+58.0,M,28.2,none,?,Kaduna,₦18336526.28
+ 37 ,Male, 47.6 ,2,no,Kano,"69,170,266"
+44yrs,fem, 38.1 ,three,no,Enugu,₦ 73327703.41 
+?,Male,28.3kg/m2,,No,Rivers,"8,226,701"
+61yrs,F,35.9kg/m2,none,no,Oyo,₦ 69898662.6 
+25yrs,M,"23.5,",0,Y,abuja,₦ 4809737.02 
+29yrs,unknown, 22.5 ,none,Y,Abuja,"7,814,368"
+21yrs,F,"35.7,",0,non-smoker,Rivers,3607100.7
+?,fem,"43.4,","0,",smoker,?,₦ 18861073.5 
+?,Male,??,none,yes,Oyo,20821423.5 NGN
+ 56 ,,??,0,yes,Rivers,"17,487,569"
+49.0,Male,unknown,2.0,Y,?,15235174.8
+age_30,,"28.4,",none,Yes,KANO,₦ 6790774.43 
+ 23 ,,"28.0,",0.0,no,KANO,₦ 19690016.17 
+"50,",F,unknown,,No,KANO,NULL
+ 18 ,,??,1,no,Rivers,₦3329167.65
+age_32,male,20.5kg/m2,0,Y,Oyo,NULL
+31yrs,Male,unknown,three,Y,Kaduna,10199187.0
+?,unknown,unknown,1.0,smoker,Kaduna,5934107.17
+42yrs,unknown, 37.2 ,2,smoker,Kano,10743018.3
+19yrs,Male, 33.1 ,none,No,Lagos,"34,624,433"
+ 45 ,, 25.2 ,none,yes,Rivers,13642602.38 NGN
+"34,",M,33.2,1,Yes,Abuja,₦8392268.25
+26.0,Male,42.4kg/m2,1,N,Enugu,"5,115,486"
+"55,",Female,30.7,three,smoker,abuja,₦ 63455538.23 
+20.0,Male,??,5,smoker,KANO,7372589.77 NGN
+33.0,Male,unknown,"4,",?,Rivers,9088759.5 NGN
+ 33 ,M,"35.8,","2,",yes,?,7334999.25
+55.0,F,??,three,no,abuja,NULL
+?,Female,unknown,three,No,Oyo,16272201.45
+ 39 ,, 32.8 ,none,Y,KANO,NULL
+age_28,Male,35.4,,?,Oyo,4903269.97
+"62,",F,"21.4,",0.0,yes,abuja,NULL
+36.0,Male,unknown,three,Yes,Rivers,8376458.55 NGN
+ 39 ,fem, 22.8 ,,yes,Rivers,11978722.5
+ 40 ,F,"32.3,",2,non-smoker,Lagos,10480045.5 NGN
+19yrs,fem,"37.4,","0,",Yes,abuja,3207106.05
+ 64 ,M, 30.1 ,,yes,Kaduna,"24,683,562"
+47.0,fem,"19.6,",three,Yes,Kaduna,NULL
+"22,",fem,??,,Yes,Lagos,"3,082,987"
+32yrs,male,??,1.0,Yes,Kano,"6,694,083"
+age_50,,"46.1,",none,Y,Enugu,₦ 14324347.65 
+age_34,F,unknown,"2,",No,Abuja,41063857.17 NGN
+59.0,M,"27.5,","0,",?,abuja,NULL
+ 38 ,unknown,unknown,2,Yes,Abuja,"9,960,817"
+age_19,Female,44.9,,Y,Oyo,NULL
+age_43,unknown,36.0kg/m2,"3,",No,Rivers,"63,186,773"
+age_54,M,28.9,"2,",Yes,Abuja,₦18144976.8
+ 41 ,unknown,"23.9,",1,non-smoker,?,10287719.4 NGN
+?,unknown,unknown,1.0,No,Abuja,"15,128,769"
+?,F,unknown,none,Y,Kaduna,₦59417636.55
+"42,",fem, 24.6 ,,Y,abuja,"29,273,312"
+53yrs,Female,"28.1,",3.0,yes,?,₦ 17612589.0 
+54.0,,"35.8,","3,",N,Kano,₦ 18742936.27 
+"23,",,35.2,"1,",No,Lagos,3625432.5 NGN
+ 51 ,Male, 30.0 ,1,Yes,abuja,14066857.05 NGN
+?,,unknown,"0,",No,abuja,NULL
+20.0,Male,??,5,smoker,KANO,7372589.77 NGN
+39yrs,male,unknown,three,Y,Kano,NULL
+53.0,F,??,"3,",smoker,Rivers,16896811.5
+52yrs,unknown,33.2,"0,",N,Abuja,₦14584154.25
+"18,",male, 33.8 ,none,non-smoker,Kano,₦2588328.45
+40yrs,male,29.3kg/m2,none,N,Lagos,23743232.59 NGN
+age_29,male,"20.2,",three,No,KANO,₦ 7359614.47 
+36.0,Female,??,1.0,no,?,NULL
+age_20,male,33.0kg/m2,0.0,?,Kano,₦2820105.0
+53yrs,Male,"22.6,","3,",?,Kaduna,₦ 37310077.35 
+ 53 ,Male, 26.4 ,,N,?,"16,866,565"
+age_56,Female, 41.9 ,none,smoker,Abuja,16640434.35
+45.0,fem, 35.8 ,none,smoker,KANO,"11,597,787"
+28.0,Male,??,2,no,Lagos,₦6510661.35
+18yrs,Female, 31.9 ,"0,",?,Abuja,₦3308971.2
+age_40,,??,"0,",No,Enugu,8158123.65
+29yrs,,unknown,none,no,Abuja,NULL
+64yrs,male, 38.2 ,three,No,Enugu,21616398.15 NGN
+25yrs,M,34.5,0,yes,Kaduna,₦ 4532713.72 
+?,Female,??,1.0,no,KANO,18066513.0 NGN
+58.0,M,30.3kg/m2,three,No,Lagos,₦ 17907383.93 
+"40,",Male,19.8kg/m2,"1,",Yes, Lagos ,NULL
+"29,",,26.0,,No,Enugu,₦5604697.05
+?,unknown, 31.2 ,three,Yes,abuja,"14,438,880"
+18.0,unknown,??,none,No,KANO,1704599.1 NGN
+age_22,fem, 27.1 ,0.0,smoker,Rivers,₦3231541.5
+?,,33.7kg/m2,three,no,abuja,16949014.5
+ 44 ,fem,??,"2,",yes,Abuja,12453803.47
+?,fem,24.9,none,Y,abuja,40676990.67 NGN
+"48,",fem,"36.7,",none,?,?,NULL
+47yrs,Male,36.2kg/m2,0,No,abuja,₦ 62514121.65 
+ 19 ,Male,"34.8,",three,yes,Rivers,52169422.5
+age_55,M,unknown,0.0,non-smoker,Kano,NULL
+"25,",unknown, 33.3 ,,Yes, Lagos ,NULL
+?,M,22.9,"1,",?,Rivers,7079286.08 NGN
+?,M,??,three,no,Kano,20453456.85
+36yrs,,28.6kg/m2,3,N, Lagos ,9822292.58 NGN
+ 23 ,,31.7kg/m2,none,no,KANO,NULL
+ 31 ,F,??,,yes,Kano,₦ 5634932.4 
+age_37,M,unknown,2.0,non-smoker,?,₦9305852.62
+30.0,unknown, 24.1 ,none,N,Lagos,NULL
+45.0,Male,??,0,Y,Rivers,₦11022213.0
+ 46 ,M,"25.7,",3,No,abuja,₦ 13952840.33 
+ 35 ,male,??,three,no,Abuja,7841983.13 NGN
+ 29 ,M, 35.5 ,2.0,Yes,Abuja,"66,878,184"
+age_56,fem,33.7kg/m2,three,smoker,abuja,NULL
+50yrs,M,unknown,0,yes,Oyo,14312543.33
+30.0,Male,37.4kg/m2,three,smoker,Oyo,₦8143091.55
+?,Male,34.8,three,Yes,Oyo,₦8593507.95
+33.0,M,unknown,2,No, Lagos ,"7,892,204"
+48.0,male,??,"2,",No,?,NULL
+"51,",Female,unknown,0.0,yes,KANO,₦ 14041990.2 
+50.0,fem, 31.8 ,,smoker,Lagos,₦61645742.62
+"37,",F,34.1kg/m2,none,Y, Lagos ,"9,168,529"
+"27,",fem,21.5kg/m2,,?,Rivers,₦ 5030205.45 
+56.0,F,25.6,none,No,Rivers,₦17181032.25
+"25,",unknown,??,2,yes,Lagos,6283669.65
+ 24 ,fem,unknown,none,yes, Lagos ,₦ 25692639.12 
+"27,",Female, 25.2 ,three,no,Rivers,"5,337,930"
+ 62 ,Female,30.5kg/m2,2.0,non-smoker,Kano,"22,529,640"
+62.0,F,??,0.0,smoker,Lagos,20193780.0 NGN
+"62,",male,??,0,no,Oyo,68565311.77
+19yrs,,unknown,none,smoker,Kaduna,₦1864224.0
+31yrs,Male,unknown,none,smoker,Rivers,5641938.0
+57yrs,unknown,unknown,0,No,Enugu,NULL
+ 46 ,F,unknown,"2,",non-smoker,abuja,₦13237629.0
+"60,",M,unknown,"0,",No,?,NULL
+"38,",unknown,19.3kg/m2,0.0,yes,?,23731048.5
+age_21,fem,??,0.0,Yes,KANO,"2,859,537"
+"43,",Male,34.6kg/m2,none,Yes,Abuja,11590879.8 NGN
+?,unknown, 31.2 ,three,Yes,abuja,"14,438,880"
+56.0,F,unknown,three,No,abuja,₦18965066.7
+age_53,Male, 37.4 ,,yes,Oyo,16439542.05 NGN
+?,Female,unknown,2,non-smoker, Lagos ,"15,177,636"
+51.0,M,unknown,3,No,Oyo,NULL
+"59,",unknown,??,3.0,no,abuja,₦21001700.7
+ 24 ,Female,??,"2,",Yes,Kano,₦ 5306554.5 
+age_23,Female,"23.2,",,N,KANO,21639110.78 NGN
+age_63,unknown,39.8,"3,",No,Enugu,22755103.5 NGN
+38yrs,Male,unknown,1.0,non-smoker,Enugu,8965246.65 NGN
+?,,unknown,0,?,Rivers,54224225.25
+43.0,M,25.5kg/m2,"5,",non-smoker,abuja,"21,717,495"
+"49,",male, 25.8 ,1,smoker,abuja,₦ 13923720.9 
+54.0,male, 30.8 ,,no,abuja,"62,999,280"
+"63,",unknown,21.7kg/m2,0,?,?,NULL
+"52,",,30.8kg/m2,,no,?,"16,196,004"
+60yrs,fem, 35.1 ,,Y,Oyo,18966883.5 NGN
+26.0,Male,"29.5,",three,Yes,KANO,"5,088,548"
+24yrs,unknown,unknown,three,Y,Abuja,₦3710001.15
+18.0,unknown,27.4,three,Yes,abuja,NULL
+64.0,M,25.6,three,smoker,Rivers,22482648.0
+?,F,34.6,2.0,?,Kaduna,5888637.3 NGN
+ 44 ,M,??,0,Y,Rivers,₦11129216.85
+"29,",unknown,??,1.0,Yes,KANO,NULL
+29.0,F,33.3,,Y,Kano,NULL
+49.0,unknown,"29.8,",1,?, Lagos ,NULL
+19.0,Female,21.8,0.0,?,Kano,2440923.67
+36.0,male,25.9kg/m2,"1,",yes, Lagos ,NULL
+age_19,F,30.6,0.0,?,Kano,2459344.65
+25yrs,Female,unknown,three,?,Rivers,₦ 50850979.5 
+34yrs,Female,21.4,three,Y,Lagos,"6,750,509"
+?,Male, 33.9 ,three,non-smoker,Abuja,17980752.3 NGN
+ 55 ,Female,??,0,Y,KANO,16623865.8
+age_57,unknown,40.9,0.0,Y,Oyo,17349450.82 NGN
+49yrs,F,27.2kg/m2,three,no,Rivers,12901993.95 NGN
+50.0,fem,unknown,2,yes,?,₦14445595.5
+"61,",F, 29.9 ,3,yes,Enugu,₦ 46413287.7 
+59.0,M, 26.5 ,0,Yes,Oyo,₦ 19223167.42 
+60yrs,Female, 24.3 ,0,?,KANO,"18,785,407"
+?,,"33.5,",,non-smoker,Enugu,₦ 18404532.98 
+49.0,male,28.7,,no,Oyo,NULL
+age_54,Female,??,0.0,smoker,Rivers,15652597.88 NGN
+?,unknown,unknown,"0,",N,?,₦ 2087293.05 
+"31,",unknown,38.4,"2,",No,Kaduna,₦6694807.65
+age_18,unknown, 28.5 ,0.0,smoker,abuja,2568340.5 NGN
+23.0,fem,unknown,0,yes,Lagos,₦4349234.02
+36.0,M,"27.6,",3,N,Enugu,10120113.75
+51.0,M,unknown,none,N,abuja,15840737.55 NGN
+age_44,, 25.4 ,"1,",Yes,Oyo,11277038.03 NGN
+41yrs,Male,unknown,,Y,Abuja,9434632.35
+23.0,unknown,"17.4,",,?,abuja,₦ 4162788.22 
+age_27,M,"23.1,",,?,Oyo,3725604.0 NGN
+"60,",F,"33.1,","3,",smoker,abuja,₦ 20879734.35 
+19yrs,unknown, 20.3 ,"0,",Yes,Oyo,1863390.0
+ 19 ,Male,unknown,three,non-smoker,?,₦ 2755855.5 
+ 53 ,unknown,34.1,,smoker,Abuja,₦64881626.93
+ 56 ,Male,??,"1,",smoker,KANO,17511195.0
+age_32,fem,23.6kg/m2,1.0,N,Lagos,"26,439,359"
+?,fem,unknown,three,No,Enugu,NULL
+32yrs,unknown,"27.8,",three,?,Kano,6681603.97 NGN
+"37,",fem,unknown,three,Yes,Kaduna,6970138.5
+age_29,fem,29.7kg/m2,three,non-smoker,Rivers,27236814.0 NGN
+"52,",,"37.5,",2,yes,Kano,50207957.84
+53.0,fem,32.3,none,No,KANO,₦ 43779723.54 
+25.0,fem,unknown,three,No,Abuja,NULL
+age_44,Male,32.0,,?,Kano,₦12174403.28
+33yrs,F,35.2,none,Yes,Enugu,18607318.65 NGN
+?,fem, 32.5 ,three,Yes,Lagos,₦ 5235823.65 
+?,male,??,none,N,Enugu,"17,822,954"
+?,, 33.9 ,0,N, Lagos ,₦19715797.27
+60.0,unknown,"30.5,",three,no,Rivers,₦ 18957292.5 
+ 19 ,,20.4,"0,",Yes,Kano,2438150.62 NGN
+36yrs,,unknown,three,N,Enugu,6603349.5
+age_59,unknown, 29.7 ,2,non-smoker,Enugu,19388829.0
+56yrs,unknown,32.3kg/m2,"3,",smoker,Enugu,"20,145,398"
+47.0,Male,29.8kg/m2,3,Yes,Enugu,NULL
+"61,",Male,31.6kg/m2,0,?,Enugu,₦ 18836407.95 
+age_54,unknown,"25.1,","3,",yes,Abuja,₦38073445.5
+?,male,??,three,?,Enugu,57368389.9 NGN
+ 27 ,M, 24.8 ,,Yes,Oyo,₦24866669.25
+ 50 ,fem,28.2,"3,",?,abuja,₦16053963.6
+"23,",male,24.5,0,?,abuja,"3,594,144"
+?,unknown,33.6,0,Y, Lagos ,₦65881775.55
+?,Female,30.4kg/m2,"0,",Y,?,₦ 93889309.64 
+42.0,Male, 26.3 ,1.0,yes,Abuja,10411364.78
+age_24,fem,??,3,non-smoker,?,6927119.85 NGN
+32.0,unknown,??,4,smoker,?,32208718.2
+age_22,Male,39.5,,no,Lagos,2523895.5
+age_27,male,"18.9,",,N,Abuja,7241857.42
+"20,",unknown,"24.4,",,non-smoker,Abuja,₦ 39188512.16 
+?,Male,unknown,none,no,Enugu,10423051.2 NGN
+"51,",M, 31.6 ,"0,",non-smoker,KANO,₦ 13761203.47 
+34.0,M,??,1.0,N,Enugu,8078006.85
+"36,",M,"35.2,","1,",non-smoker,Abuja,₦ 58063764.0 
+ 43 ,Female,??,none,non-smoker,Kaduna,NULL
+37.0,Female,29.8,none,no,KANO,₦9609616.05
+51.0,M,"35.0,",none,Y,KANO,66961796.1 NGN
+52.0,Male,36.7kg/m2,three,non-smoker,Abuja,₦ 13716847.5 
+48.0,male,25.9,3,No,?,36271400.25 NGN
+30.0,Male,27.6,"1,",?,Lagos,NULL
+"43,",fem, 23.2 ,0,yes,Abuja,₦9375652.5
+18yrs,male,16.0,"0,",No,Lagos,₦2542194.6
+ 46 ,F,unknown,"2,",non-smoker,abuja,₦13237629.0
+21yrs,Male,23.8kg/m2,,No,Rivers,4615643.25
+?,Male,31.2,none,N,Kaduna,₦15508397.4
+?,male,23.7kg/m2,three,N,Lagos,NULL
+age_22,,??,none,No,?,₦ 3233522.25 
+21yrs,male,unknown,three,Yes,Enugu,₦26913159.0
+37yrs,M, 37.1 ,"1,",?,Oyo,NULL
+18yrs,male,38.3,none,Y,abuja,"2,447,732"
+32yrs,,??,"1,",Y,Enugu,7722828.9
+32.0,M, 37.1 ,"3,",Y,Lagos,₦9501515.32
+?,male,"21.3,",3,?,KANO,6444406.8
+"18,",F, 17.3 ,2,?,?,₦19244182.65
+"23,",Male, 36.7 ,"2,",No,?,"57,767,442"
+40.0,Male,35.3kg/m2,3.0,yes,Rivers,10795300.5 NGN
+50.0,fem,26.4kg/m2,"0,",N,abuja,13240814.85 NGN
+33yrs,F,35.2,none,Yes,Enugu,18607318.65 NGN
+29.0,M,"29.0,",,Yes,Enugu,₦ 6060837.38 
+18.0,F,23.3kg/m2,three,Yes,Abuja,"2,566,540"
+ 18 ,M,25.5kg/m2,"0,",smoker,Enugu,2562002.1 NGN
+34.0,F,27.7kg/m2,three,no,Kaduna,₦ 6622738.2 
+"30,",fem, 37.8 ,2.0,yes,?,58862163.0
+53yrs,M,??,0.0,?,Kaduna,14231466.3
+ 33 ,Male,??,none,N,Lagos,₦ 6857119.58 
+?,F,"28.6,",three,Y,abuja,"17,487,173"
+ 19 ,Female,"24.7,",none,Yes,KANO,2606064.0
+36yrs,F, 33.4 ,three,No,?,57623211.0
+age_34,unknown,42.9kg/m2,"1,",Yes,Rivers,₦ 6804388.5 
+"30,",male,28.4kg/m2,three,yes,Rivers,NULL
+age_24,Male,unknown,,No,?,4276025.62
+64yrs,M,39.3kg/m2,,Y,Kano,₦ 22352275.05 
+59.0,Male,31.8kg/m2,three,smoker,Oyo,NULL
+ 38 ,male,unknown,"2,",no, Lagos ,₦9123607.5
+?,male,"19.9,",none,Y, Lagos ,₦8187069.67
+24yrs,unknown,24.2kg/m2,0,non-smoker,Lagos,4264141.12 NGN
+26.0,F, 33.9 ,three,non-smoker,Enugu,NULL
+39.0,M,??,none,N,Rivers,NULL
+21yrs,,34.6,,no,?,"3,030,266"
+"52,",fem,37.4,three,?,KANO,NULL
+age_48,F,??,"1,",?,?,₦ 13306727.55 
+?,,unknown,0.0,non-smoker, Lagos ,₦ 7908263.7 
+age_23,fem, 28.1 ,none,No,KANO,"4,035,171"
+age_19,Male,unknown,0,N,Abuja,1862347.5 NGN
+?,,33.3kg/m2,0.0,Y,Kaduna,12425521.05 NGN
+"29,",unknown, 25.9 ,none,N,Rivers,₦ 5029926.0 
+"61,",M,38.4kg/m2,none,no,Rivers,"19,425,107"
+age_30,unknown,"43.1,",2.0,Y,Oyo,"7,130,455"
+27yrs,Female,"31.1,",,no,Abuja,52209701.55
+?,male,"33.3,",0.0,no,Enugu,NULL
+age_64,unknown,33.8kg/m2,,No,Kano,NULL
+?,male,??,,Yes,Kano,15487809.0 NGN
+age_35,Male,unknown,,smoker, Lagos ,7861147.5 NGN
+?,Female,"24.4,",three,N,KANO,NULL
+ 25 ,Male,??,1,No,?,₦ 4840681.65 
+"34,",Female,"27.5,",1,no,Kaduna,₦7505779.5
+48yrs,Female,31.1kg/m2,,?,abuja,NULL
+?,unknown,29.2kg/m2,three,yes,abuja,₦15654144.0
+age_47,male,27.6kg/m2,"2,",Yes,abuja,₦36803547.83
+age_24,M,??,"0,",yes, Lagos ,NULL
+?,male,30.9kg/m2,"3,",N,Kano,₦ 10195294.88 
+19yrs,Male,??,none,Yes,Rivers,"1,880,904"
+ 35 ,Male,34.3,none,N, Lagos ,NULL
+"50,",F,unknown,,No,KANO,NULL
+30yrs,M,??,0.0,Y,?,₦5467634.1
+age_42,Female,"40.4,",2.0,Yes,Enugu,₦ 65844564.45 
+"37,",F,unknown,,No, Lagos ,"9,467,928"
+54.0,unknown,unknown,,Yes,abuja,₦16237880.55
+46yrs,unknown,??,none,non-smoker,Lagos,"12,514,363"
+age_19,Male,22.5kg/m2,,no,Abuja,₦ 3176008.28 
+ 43 ,M,unknown,none,Y,abuja,₦ 63840645.6 
+"20,",Male,30.6kg/m2,0.0,non-smoker,?,"3,689,580"
+63.0,,41.3,"3,",yes,KANO,23332783.12 NGN
+19.0,unknown, 32.1 ,0.0,Yes,Abuja,NULL
+ 49 ,fem,"22.6,",three,N,Enugu,14350486.35 NGN
+47.0,Female,??,,N, Lagos ,₦ 12821536.95 
+age_18,Female,??,,non-smoker,Abuja,NULL
+54yrs,Male,"31.6,",none,?,Lagos,₦ 14775648.0 
+ 62 ,Female,??,3.0,N,KANO,NULL
+ 54 ,M,31.9,three,yes,Kaduna,40984100.79
+"63,",Male,??,3.0,Yes, Lagos ,22742301.6 NGN
+"42,",,unknown,2.0,yes,Lagos,₦12025591.73
+ 21 ,M,26.4,,smoker,Lagos,"3,896,668"
+"55,",F,32.8kg/m2,three,yes,Rivers,18402948.38
+24yrs,,"39.5,",,yes, Lagos ,3721468.65 NGN
+33.0,Female,unknown,"3,",No, Lagos ,9541490.4
+ 36 ,M,??,three,smoker,Kano,6599596.5
+age_41,unknown,unknown,1.0,?,Lagos,"9,423,352"
+?,,unknown,,?,?,2273017.35 NGN
+age_63,M,41.5,0.0,smoker,Enugu,20108085.45
+28yrs,unknown,unknown,"0,",Yes,Lagos,4593762.38 NGN
+63.0,fem, 35.2 ,three,N,Kano,NULL
+ 35 ,unknown,unknown,3,No,Enugu,8890269.0
+ 41 ,F, 28.1 ,1.0,No,Rivers,₦ 10155288.75 
+39yrs,M,41.8kg/m2,0,N, Lagos ,₦8493337.5
+"27,",Female,??,three,?,abuja,NULL
+24.0,,??,three,no, Lagos ,₦21857836.2
+"19,",Male,"27.9,",three,smoker,Rivers,28258055.49
+ 18 ,Female,??,none,smoker,?,"2,558,437"
+"61,",F,"22.0,",0.0,smoker,abuja,"20,424,538"
+18yrs,,unknown,"0,",N,Abuja,"3,316,696"
+24.0,Male,27.6,none,No,Abuja,₦ 28432830.25 
+ 57 ,fem,??,,Y,abuja,₦16473751.95
+18.0,F,30.1kg/m2,three,smoker, Lagos ,₦32017270.05
+39.0,Male,??,,Yes,Kano,10065287.85
+60.0,male,??,"0,",N,Enugu,₦19843270.42
+21yrs,Male,31.1,0,No,Abuja,2289468.0
+ 24 ,F,??,0,yes,Abuja,"4,569,093"
+ 22 ,F,??,,N, Lagos ,₦ 3376252.8 
+"40,",F, 41.2 ,1,smoker,Kaduna,₦9915164.55
+age_18,F,30.3kg/m2,0,non-smoker,Kaduna,NULL
+26.0,M,??,"0,",yes,Rivers,NULL
+?,Male,"31.8,",none,Yes,Kano,₦65720799.15
+24.0,F, 33.3 ,three,N,Abuja,₦ 4283156.33 
+?,unknown,32.6,3.0,smoker,?,11931775.5
+ 63 ,fem,33.1,three,N, Lagos ,20090634.0 NGN
+?,M,18.3kg/m2,5.0,non-smoker, Lagos ,NULL
+age_18,F,31.4,0.0,no,Abuja,₦ 2433282.75 
+46yrs,Female,48.1kg/m2,,yes,?,NULL
+49yrs,,"35.9,",,smoker,Enugu,"12,186,613"
+"49,",fem,27.1kg/m2,1,smoker,KANO,39210540.45 NGN
+ 40 ,F,??,,?,Lagos,42715102.48
+ 61 ,male,21.1kg/m2,0,smoker,Lagos,₦ 20122557.15 
+?,F,??,1,Y,KANO,27492357.15
+63.0,Male,??,,Y,Rivers,20972775.53
+?,M,18.3kg/m2,5.0,non-smoker, Lagos ,NULL
+"39,",fem,"24.9,",3,No,Abuja,₦32489895.15
+31yrs,M,"32.7,",three,Yes,Oyo,7107402.3 NGN
+61.0,fem, 31.2 ,"0,",Y,KANO,NULL
+28.0,Female, 33.1 ,none,Yes,Kano,4757422.35
+39yrs,fem,unknown,three,Y,Oyo,"13,448,694"
+57yrs,F,??,0.0,Y,Enugu,17029841.4 NGN
+ 18 ,F,39.8,,non-smoker,KANO,₦ 2450942.7 
+?,male,31.7,"0,",yes,KANO,3382195.05
+"43,",F,??,three,Yes,Kaduna,₦ 10273539.0 
+63yrs,Female,??,1,non-smoker,Oyo,21524781.6
+54.0,Female,??,,N,Kano,NULL
+"38,",F,21.1,"3,",Y,Abuja,9978793.2 NGN
+62.0,F,??,0.0,smoker,Lagos,20193780.0 NGN
+46yrs,,unknown,"1,",smoker,Kano,₦ 62492403.0 
+?,F,34.4,none,no,Kano,₦ 54296548.5 
+26.0,unknown,??,,non-smoker,KANO,₦ 4345985.25 
+age_60,F, 39.9 ,,?,Kaduna,"72,260,042"
+"41,",male,??,1.0,No, Lagos ,20588207.76
+"50,",fem,unknown,1.0,yes,abuja,₦ 36780396.0 
+51.0,M,"35.0,",none,Y,KANO,66961796.1 NGN
+47yrs,fem,??,1,N,Oyo,12125879.7 NGN
+age_48,F,unknown,three,?,Lagos,₦ 13874242.8 
+age_21,M,unknown,,No,Rivers,₦23038656.75
+ 49 ,Male,30.3kg/m2,none,?,Rivers,₦12175020.0
+ 42 ,Male,26.9kg/m2,"0,",No,Rivers,"8,954,584"
+?,F, 26.2 ,2.0,?,Enugu,"3,456,003"
+ 32 ,fem,??,three,yes,Enugu,₦7728201.0
+54.0,male, 30.8 ,,no,abuja,"62,999,280"
+age_38,, 30.2 ,3,yes,Enugu,NULL
+?,male,26.4kg/m2,"0,",non-smoker,Oyo,17614948.5
+29.0,M,unknown,none,Yes,Kaduna,₦8563300.5
+42yrs,F,unknown,three,No,Kaduna,"11,165,465"
+19yrs,F,22.6,three,non-smoker,Abuja,2442706.35 NGN
+53.0,F,??,"3,",smoker,Rivers,16896811.5
+age_59,Male,"31.4,",,No,Kano,18933269.25 NGN
+age_48,male,"33.1,",,yes,Kano,61461247.35
+?,Female,38.3,0.0,?,Lagos,NULL
+37yrs,, 29.8 ,three,Yes,Lagos,30630906.98 NGN
+"26,",fem,??,,Y,Kano,NULL
+53.0,Female,39.6,1,yes,Kaduna,"15,869,566"
+"21,",,"22.1,","0,",No,Rivers,3878775.97
+33yrs,,24.6kg/m2,2,Y,Enugu,₦ 7886261.92 
+age_24,,32.7kg/m2,0.0,Yes, Lagos ,51709261.5
+19yrs,unknown,unknown,three,Y,Abuja,₦ 24446769.0 
+31.0,fem, 20.4 ,none,no,Kaduna,4890298.5 NGN
+age_44,male,"30.2,",none,No,Kano,NULL
+19yrs,Female, 30.6 ,three,Y,abuja,36089520.28
+ 53 ,unknown,"30.5,",0.0,Y,Oyo,15108082.58 NGN
+?,M,unknown,3.0,N,abuja,NULL
+age_34,Male,??,,Yes,KANO,7342129.95 NGN
+?,,unknown,,Yes,Kano,10129557.0 NGN
+"42,",Female, 35.8 ,2.0,yes,Rivers,NULL
+42.0,,"26.1,",none,No,Kano,11594468.62
+"34,",unknown,30.8,"0,",N,Kaduna,₦53237460.0
+52yrs,M,??,,smoker, Lagos ,14986556.47 NGN
+ 34 ,Male,??,,N,Enugu,NULL
+ 20 ,Male,37.0kg/m2,three,No,?,NULL
+20yrs,fem,22.0,none,Y,Rivers,NULL
+age_26,F,unknown,three,No, Lagos ,3453450.0
+age_46,M, 33.7 ,,yes,Enugu,NULL
+46.0,Male,unknown,none,N,Lagos,12349646.25 NGN
+20yrs,fem, 21.8 ,"0,",Y,Enugu,₦30251004.04
+?,F,unknown,,No,Rivers,NULL
+ 19 ,Male,??,0.0,No,Kaduna,48822510.75
+"64,",,34.5kg/m2,,Yes,Kaduna,NULL
+18.0,F,"29.4,",three,No,Kaduna,₦2579154.45
+28.0,Female, 33.1 ,none,Yes,Kano,4757422.35
+48.0,Male,35.6,none,N,Rivers,16105306.12
+ 19 ,,30.4,three,N,Enugu,1884448.5 NGN
+age_45,Male,"20.4,","3,",yes,Lagos,₦ 12908042.25 
+?,Male,"31.8,",none,Yes,Kano,₦65720799.15
+45yrs,M,36.3kg/m2,2.0,No,Kaduna,"12,791,298"
+?,male,"35.8,",none,?,Rivers,60410468.25
+age_20,male,29.0,0.0,non-smoker,Rivers,"3,386,213"
+26.0,unknown,17.2,"2,",Yes,Abuja,21683466.08
+55.0,unknown,"33.0,",,smoker,Enugu,31172233.38 NGN
+ 62 ,unknown, 37.4 ,"0,",No,Lagos,₦19469037.0
+age_53,Male,23.8,2,smoker,Oyo,₦ 17594519.25 
+ 19 ,,29.8kg/m2,0.0,Yes,Oyo,2616697.5 NGN
+46.0,Female, 43.9 ,,smoker,abuja,"13,416,173"
+age_51,unknown,??,,N,Rivers,NULL
+ 64 ,Female,??,"0,",no,abuja,NULL
+56.0,unknown,unknown,,Yes,Oyo,NULL
+ 30 ,male,??,none,yes,abuja,₦ 7077305.33 
+"18,",F,unknown,0.0,Yes,?,"20,621,809"
+ 28 ,,29.3kg/m2,"2,",Y, Lagos ,₦6657395.1
+62.0,M,unknown,three,No,?,20332507.35 NGN
+age_31,unknown,"21.8,",,Yes,KANO,₦6201123.67
+age_45,fem,unknown,,Y,?,₦ 12775243.5 
+age_21,,20.2,three,yes,Lagos,₦ 5791814.47 
+36yrs,male,??,1.0,?, Lagos ,₦8060046.37
+30.0,male,28.7kg/m2,three,no,Lagos,31118983.65
+"50,",Male,unknown,three,No,Abuja,"13,398,126"
+"19,",M, 31.9 ,none,Yes,?,50625437.7 NGN
+?,Female,27.0,,Yes,?,43425703.8 NGN
+ 42 ,fem,??,,yes,Abuja,₦8950331.1
+"22,",F,unknown,three,?, Lagos ,"2,511,948"
+ 35 ,male,24.1kg/m2,three,?,?,7687823.55
+51yrs,Female,??,"3,",N,Lagos,₦69382668.75
+ 50 ,F,36.2,0.0,non-smoker,Abuja,NULL
+age_48,Male,30.8kg/m2,none,No,?,₦15211704.3
+"48,",Male,28.9,three,N, Lagos ,"12,416,284"
+age_46,unknown,??,2.0,no,Kano,₦13234918.5
+18.0,Female,??,0,yes,Kaduna,NULL
+23.0,male, 18.7 ,,Yes,Oyo,NULL
+age_53,F, 33.2 ,0,?,Kano,15847326.75
+?,Female,??,,yes,?,₦ 24879746.56 
+age_29,M,??,three,yes,Abuja,4300679.4 NGN
+46yrs,,unknown,three,no,abuja,"13,790,758"
+52.0,F,??,1.0,?,Abuja,14623365.9
+age_51,male,38.1,,no,?,66600609.6
+36yrs,M,"29.0,",4.0,?,Lagos,10865720.4 NGN
+age_18,Male,30.0,1,Y,Enugu,NULL
+56yrs,F,37.5kg/m2,,?,Oyo,"18,398,260"
+ 18 ,Male,unknown,three,Yes, Lagos ,₦ 2449566.6 
+21yrs,Male,16.8,1.0,Yes,abuja,"4,751,184"
+"38,",fem,"37.0,",none,No,KANO,"9,119,507"
+43yrs,fem,??,,no,KANO,₦ 11006622.0 
+?,Female,unknown,"3,",N,Rivers,NULL
+18yrs,F,38.2kg/m2,,N,Kano,₦ 2447502.45 
+"60,",M, 28.9 ,none,Y,Oyo,18220456.5
+"42,",unknown,unknown,three,?,?,₦ 32023059.0 
+32.0,fem,"28.9,",,non-smoker,Abuja,29579542.05
+63.0,fem,32.2,2.0,non-smoker,?,"70,957,958"
+42.0,male,unknown,2,non-smoker,Lagos,"10,740,495"
+"58,",M,??,none,non-smoker,Rivers,₦ 17071988.1 
+50.0,fem,"32.2,","0,",yes,Lagos,13252897.43 NGN
+"25,",M,25.0,three,smoker, Lagos ,NULL
+?,Male,"24.3,",none,smoker,Rivers,₦ 3225703.5 
+?,Male,??,1.0,?,?,12827020.5
+ 59 ,male,unknown,none,Y,?,18500742.0 NGN
+ 61 ,F,"28.2,",0,Y,KANO,₦ 19562881.5 
+age_41,unknown,"28.3,",three,non-smoker, Lagos ,NULL
+ 49 ,,34.8,1,Yes,Kano,"14,375,840"
+43.0,F,35.3kg/m2,2.0,No,Abuja,"28,209,218"
+?,F,25.3kg/m2,none,?,Kaduna,4566319.95 NGN
+50yrs,male,34.2kg/m2,,Y,?,₦64285257.0
+57.0,Male,23.7,"0,",?,Rivers,"16,438,995"
+44.0,male,unknown,none,no,abuja,₦11131791.83
+"36,",Female,27.7,three,N,Abuja,"8,203,510"
+age_46,F,38.2,three,?,KANO,12520746.45
+58.0,Male,"31.8,","2,",Yes,Abuja,"20,411,053"
+41.0,fem,??,,no,abuja,9277981.2 NGN
+age_49,,"25.8,",three,N,Kano,₦ 35710860.9 
+ 29 ,M, 35.5 ,2.0,Yes,Abuja,"66,878,184"
+28yrs,Female,??,5,smoker,abuja,₦8423053.5
+age_52,unknown,unknown,0.0,Yes, Lagos ,"15,296,658"
+ 18 ,fem,??,none,smoker,Lagos,"3,294,710"
+19yrs,F, 28.9 ,"0,",smoker, Lagos ,26622759.3 NGN
+age_54,Female, 23.0 ,"3,",No, Lagos ,18141717.0
+ 39 ,fem,21.9,none,No,Lagos,NULL
+age_29,fem,21.8,1.0,no,KANO,₦ 24986576.18 
+46.0,Female,"42.4,",three,yes,?,69226686.75
+?,Female, 28.9 ,,yes,Kano,₦5800282.8
+33yrs,F,"33.5,",three,?,Lagos,"55,619,058"
+61.0,Male,33.5,none,smoker,Lagos,NULL
+age_45,F,38.3kg/m2,none,non-smoker,Kano,11902936.72 NGN
+ 35 ,,38.6kg/m2,"1,",Y,Abuja,₦7143493.5
+age_31,F,23.6kg/m2,2,no,?,7397470.5
+age_51,M,42.9kg/m2,2,smoker,Rivers,₦71194341.0
+59yrs,fem,??,0,Yes,Lagos,18485904.0
+age_32,male,24.6kg/m2,three,Yes,abuja,26244459.0 NGN
+age_64,Male,40.5,0.0,smoker,Rivers,20746672.8
+45.0,unknown,??,three,smoker,Rivers,₦ 11161579.5 
+"31,",unknown,38.4,"2,",No,Kaduna,₦6694807.65
+ 21 ,Female,"25.8,",0.0,no, Lagos ,₦ 3011917.5 
+ 35 ,Male,36.7,none,Yes,Oyo,NULL
+"45,",Male, 30.5 ,"1,",?,KANO,NULL
+ 44 ,fem,??,none,no, Lagos ,"12,328,806"
+age_28,Female, 24.3 ,three,?,Oyo,34933392.6 NGN
+30.0,, 27.7 ,none,no,abuja,₦5331304.5
+57yrs,Female,unknown,"0,",yes,abuja,₦ 17182920.0 
+"37,",Female,"34.2,",three,Y,Lagos,58570927.5 NGN
+ 19 ,,??,none,Y,?,₦4063865.93
+32yrs,male,??,1.0,Yes,Kano,"6,694,083"
+?,M, 22.1 ,0,N,Kano,"15,865,630"
+38.0,F,??,"0,",N,Abuja,₦8101470.75
+age_50,Female,??,,Y,Oyo,₦ 16628380.2 
+44.0,Male,"37.1,","2,",yes, Lagos ,11610505.5 NGN
+47yrs,unknown,??,three,yes,Kano,₦ 66303980.4 
+age_37,M,26.4,three,?,Abuja,"29,308,864"
+?,male,"21.3,",3,?,KANO,6444406.8
+ 18 ,,??,three,Y,KANO,2444750.25
+ 34 ,Male,unknown,,Yes,Abuja,₦56552815.2
+"28,",F,??,0,Yes,Enugu,₦5335383.45
+age_53,M, 24.8 ,1.0,Y,abuja,16413198.08 NGN
+?,,"35.5,",0.0,non-smoker,Rivers,₦ 82703103.14 
+19.0,fem, 35.1 ,0,non-smoker,Enugu,3202352.25
+age_18,Female,53.1,,No,Enugu,1745194.05 NGN
+age_46,Female,33.4kg/m2,1,No,Kaduna,₦ 12501884.4 
+ 22 ,fem,"39.8,",none,yes,Oyo,₦4132531.43
+"41,",M,32.2kg/m2,none,No,Oyo,₦10313941.5
+"58,",Male, 35.7 ,,No,Oyo,17044132.5 NGN
+ 18 ,unknown,"31.7,",,non-smoker,Kano,₦50599030.05
+?,Female,??,,non-smoker,Kano,"5,164,596"
+age_19,Female, 34.9 ,none,Y,Rivers,₦ 52242981.0 
+28yrs,Female,"23.8,",2.0,yes, Lagos ,₦7079604.82
+age_23,Female,??,2,No,Kaduna,₦ 54031516.8 
+"34,",F,??,"0,",yes,Abuja,6480616.28
+38.0,fem,??,2,non-smoker,Oyo,₦ 10717293.97 
+ 48 ,unknown,"24.4,",,Y,KANO,31835513.7 NGN
+?,F,26.7,1.0,Y,Kano,"7,504,174"
+ 18 ,Female,21.5kg/m2,none,Y,Abuja,"2,553,683"
+61yrs,M, 32.3 ,2,Y,Rivers,₦21179430.0
+?,F,40.6kg/m2,3.0,yes,Oyo,72823767.53 NGN
+age_18,male,"26.7,",0.0,N,Rivers,2423650.05
+42yrs,Male, 23.4 ,0,no,Rivers,NULL
+ 53 ,fem,21.4,three,N,Oyo,₦15098119.5
+?,male,"32.3,","1,",Y,KANO,11450580.9
+?,F, 38.0 ,2.0,Y,Rivers,NULL
+age_47,Female,"28.2,",4,non-smoker,Enugu,"15,610,629"
+49yrs,F,??,1,N,Enugu,₦13773255.0
+?,unknown,33.9,0.0,Yes,Kaduna,"14,799,457"
+?,Male,"37.3,",0,No,?,"30,945,425"
+ 64 ,fem,"31.3,",three,Y,Kano,70936582.5 NGN
+"56,",unknown,unknown,0,Y,Kano,16609764.0 NGN
+48.0,Female,"34.3,",three,no,Lagos,₦ 14344543.5 
+22yrs,male,31.0kg/m2,"3,",no,Lagos,₦ 53393384.7 
+age_59,Male,32.1,,N,Enugu,21010833.0
+?,fem,30.1kg/m2,none,Y,Lagos,14865539.78
+"44,",unknown,??,2.0,No,Kano,₦ 69301477.65 
+33.0,Female,"22.7,","0,",N,Kaduna,₦32976705.91
+?,Female,26.8,three,No,Kano,₦25627901.4
+age_57,M, 23.2 ,,smoker,Enugu,17745910.8
+age_26,F, 29.9 ,"2,",?,KANO,NULL
+19.0,fem, 32.5 ,three,non-smoker,Lagos,55348099.62
+40yrs,male,29.4,three,N,Kaduna,"9,590,405"
+26.0,fem,34.2kg/m2,,N,Kaduna,₦5981889.0
+"64,",,unknown,three,non-smoker,Kano,"22,039,004"
+49.0,F, 25.6 ,"2,",Yes, Lagos ,34959820.5 NGN
+ 20 ,unknown,"27.3,","0,",N,Kano,₦ 24349270.5 
+"24,",Male,"29.3,",0,N, Lagos ,₦ 2966722.5 
+age_20,fem,31.1kg/m2,2.0,?,KANO,"3,849,706"
+"51,",unknown, 27.7 ,1,?,Enugu,NULL
+64yrs,fem,??,1,No,Lagos,₦ 21627420.6 
+23.0,unknown, 24.2 ,2.0,yes,Lagos,₦ 33593616.36 
+37yrs,F,29.6,0,N,Kano,₦7542219.9
+52yrs,unknown,unknown,"3,",No,Kaduna,₦ 90032098.45 
+28yrs,Male,unknown,,smoker,Oyo,4758027.0 NGN
+age_50,unknown,??,"0,",non-smoker,Lagos,₦12666711.0
+?,M,26.8kg/m2,"1,",?,abuja,18914830.53 NGN
+ 63 ,Male,26.2kg/m2,0,smoker,Kaduna,₦ 21384289.2 
+age_33,unknown,27.1kg/m2,1,non-smoker,Lagos,28561314.0
+ 32 ,male, 33.6 ,1.0,Y,Lagos,"56,411,292"
+?,,unknown,none,Y,KANO,₦ 5991266.7 
+ 52 ,M,"24.1,",none,yes,Lagos,NULL
+ 56 ,F,"25.9,","0,",yes,KANO,₦16748126.47
+41.0,F,unknown,none,no, Lagos ,₦ 10892611.5 
+"57,",male,unknown,"0,",Y,KANO,₦65368409.1
+age_45,fem,"30.5,",three,non-smoker,Abuja,12620194.58
+25yrs,male,??,0,No,Lagos,3784754.25 NGN
+ 27 ,M,unknown,3,N,Oyo,NULL
+?,male,"22.5,",0.0,N,?,13033288.28 NGN
+?,fem,"43.3,",three,yes,Oyo,8770376.4
+19yrs,M,??,2,Y,Kano,₦4205546.78
+age_64,unknown, 36.0 ,0.0,no,Lagos,₦21470769.45
+?,male,23.6,0,N,Lagos,₦7488564.6
+46yrs,M,unknown,1,N,Rivers,11613164.7
+ 19 ,,unknown,,smoker,Enugu,2593345.5 NGN
+age_31,fem,30.5kg/m2,"3,",N,Lagos,₦9169846.58
+25.0,male,??,,Y,Kano,₦ 4091092.65 
+age_30,,unknown,1.0,non-smoker,KANO,6224604.0
+"59,",male, 36.8 ,,N,Oyo,71845187.03 NGN
+56.0,unknown,"28.3,",0,No,abuja,₦ 17486578.35 
+"40,",F,??,none,Y,KANO,12244074.38 NGN
+?,Female,"32.3,",three,yes,Abuja,₦ 17268607.5 
+ 38 ,F,34.8kg/m2,,No,Lagos,NULL
+38yrs,,??,3.0,No,?,₦10726638.0
+ 46 ,M,19.9kg/m2,none,yes,Rivers,NULL
+age_36,F,"25.8,",three,Y,Lagos,7899548.4 NGN
+ 64 ,F, 37.9 ,none,?,KANO,21315803.93 NGN
+ 34 ,F,unknown,2,smoker,Rivers,17606773.26 NGN
+32yrs,M,17.8kg/m2,2.0,?,Rivers,49101279.45 NGN
+ 43 ,fem, 46.2 ,three,non-smoker,Enugu,68794807.5
+"63,",,37.7,three,N,Abuja,73236675.0
+"31,",M,29.3kg/m2,"1,",Y,?,6525771.6 NGN
+18.0,F,30.1kg/m2,three,smoker, Lagos ,₦32017270.05
+age_48,Male,unknown,,No,Rivers,31848273.39
+?,Male,"24.0,",2,N,KANO,₦12316650.3
+ 62 ,fem,"38.8,",,smoker,abuja,"19,472,019"
+55yrs,Male,32.4kg/m2,,Yes,Kaduna,17818656.07 NGN
+19yrs,fem,unknown,0.0,No,Kaduna,₦1894873.5
+age_31,, 29.8 ,0.0,no, Lagos ,NULL
+"38,",male,31.0,"1,",non-smoker,Abuja,"8,232,393"
+?,unknown,28.9kg/m2,"0,",smoker,Kaduna,2614821.0 NGN
+45.0,unknown,22.9,"0,",?,Lagos,₦52604061.78
+"23,",F,35.0kg/m2,none,Y,KANO,"6,699,932"
+"50,",fem, 27.8 ,none,Y,Abuja,29624075.07 NGN
+"42,",F,??,"1,",No,Lagos,11476160.62
+ 35 ,Male,unknown,1,no,?,7120579.35 NGN
+59.0,fem,??,three,?,Abuja,18520758.0 NGN
+"18,",F,??,,yes, Lagos ,"2,432,824"
+age_34,unknown,??,1,smoker,Kano,21537546.55 NGN
+"44,",fem,36.5kg/m2,"0,",?,Kaduna,NULL
+?,, 30.9 ,three,Yes,Rivers,₦5786638.88
+ 62 ,F, 33.0 ,none,non-smoker,KANO,₦ 23418290.02 
+?,unknown,"33.7,",,?,Kaduna,11168877.0 NGN
+ 49 ,Female,??,three,smoker,Lagos,12188676.75
+age_52,unknown,25.3,2.0,no,?,37001128.5 NGN
+?,Female,??,2.0,Y,abuja,57516849.0
+age_59,unknown,35.2kg/m2,none,smoker,?,18366796.5
+?,unknown, 27.2 ,"0,",N,?,"18,334,347"
+ 57 ,F,27.9kg/m2,,N,?,NULL
+ 37 ,Female,"27.7,",,?,Kano,"10,922,258"
+?,Male,30.5kg/m2,,smoker,Rivers,7126605.0 NGN
+52yrs,fem,??,3,Y,Kaduna,₦ 16933663.88 
+ 40 ,male,"32.8,","2,",Yes,Enugu,60004998.38
+?,,"29.8,","0,",Y,Kano,16929808.05
+19.0,unknown,"26.0,",none,Y, Lagos ,₦ 24676342.05 
+"43,",M,35.7,three,No,abuja,28716864.78
+50.0,,44.8,1,smoker,abuja,₦13588095.45
+?,,23.1kg/m2,three,N,abuja,NULL
+ 59 ,M,27.8kg/m2,three,non-smoker,Rivers,NULL
+64.0,F,23.0kg/m2,,N,abuja,₦40556871.15
+?,male,19.1kg/m2,2,yes,Rivers,NULL
+?,fem,??,0,no,?,₦ 4299136.5 
+"32,",,??,three,no, Lagos ,₦5959387.05
+"54,",Male,"24.0,",none,yes,?,₦ 15634374.97 
+ 50 ,Male, 32.1 ,,smoker,Kano,NULL
+52.0,Male,"44.7,",3.0,Yes,Enugu,17117527.5 NGN
+30.0,M, 24.4 ,,?,Enugu,27388824.0
+age_19,,unknown,,N,Enugu,26029020.45
+ 37 ,Female,"27.7,",,?,Kano,"10,922,258"
+"40,",,33.0kg/m2,three,smoker,Enugu,"11,524,005"
+21.0,fem,26.0kg/m2,none,No,KANO,₦3153397.05
+?,Male,38.1kg/m2,three,Yes,Kano,"22,845,486"
+"20,",Female,unknown,0,no,KANO,"2,813,016"
+"61,",male,??,"1,",yes,Abuja,NULL
+age_48,M,??,"1,",Yes,abuja,13147873.5 NGN
+"55,",F, 32.8 ,,Yes,Oyo,"15,902,448"
+21.0,unknown,unknown,"1,",?,KANO,"3,877,903"
+?,Female,??,0.0,Yes,Kaduna,NULL
+"60,",M,31.4,3,Y,Rivers,NULL
+61yrs,F,35.9kg/m2,none,no,Oyo,₦ 69898662.6 
+49.0,fem,30.8kg/m2,none,Y,Oyo,₦ 14667520.8 
+age_56,Female, 41.9 ,none,smoker,Abuja,16640434.35
+?,Male,unknown,three,No,Kano,6650873.85
+ 46 ,unknown,22.3kg/m2,none,No,Enugu,"10,720,658"
+"26,",M,??,three,yes,Oyo,₦4356132.0
+39.0,male,"35.3,",none,?,Abuja,60155835.0
+age_19,M,35.5,none,non-smoker, Lagos ,"2,469,645"
+60yrs,,unknown,"0,",Y,Lagos,"73,010,338"
+ 22 ,fem,23.2kg/m2,none,Yes,?,NULL
+35yrs,unknown, 35.8 ,none,no,?,8445686.78 NGN
+"31,",fem,??,,non-smoker,Kano,8137535.03 NGN
+40.0,,28.7kg/m2,none,smoker,Kaduna,12089518.65 NGN
+62yrs,F,25.0kg/m2,0.0,non-smoker,Kano,"20,176,683"
+"60,",Male,24.0kg/m2,0,Yes,Enugu,19518312.98
+38yrs,Male,??,"2,",non-smoker,Enugu,NULL
+age_30,M,31.6kg/m2,none,Yes,Abuja,7256373.45 NGN
+age_60,Female, 25.8 ,"0,",N,?,43384705.38
+?,,32.6,none,Yes, Lagos ,₦61411928.1
+"51,",male,??,none,No,Oyo,"14,816,412"
+32yrs,unknown,"27.8,",three,?,Kano,6681603.97 NGN
+50.0,fem,unknown,2,yes,?,₦14445595.5
+?,M,"30.8,",three,No,KANO,NULL
+"19,",Male,28.4kg/m2,,no,Rivers,NULL
+45.0,unknown,??,three,smoker,Rivers,₦ 11161579.5 
+age_34,M,??,,yes,Rivers,NULL
+19yrs,male,unknown,"0,",N,?,₦2448846.68
+"60,",,24.3kg/m2,1.0,no,Kano,₦19668907.2
+ 58 ,M,25.2,0.0,Yes, Lagos ,17896687.88
+28yrs,Female,??,three,No,Rivers,26494716.3 NGN
+ 49 ,Male,unknown,1,yes, Lagos ,₦13935209.25
+44.0,F,20.2,1.0,?,?,29392214.47 NGN
+age_32,Female,"30.0,",1,Y,Enugu,NULL
+19.0,F,??,none,non-smoker,Lagos,₦26203475.85
+?,fem,unknown,three,Y,Abuja,"15,891,752"
+ 37 ,unknown,17.3kg/m2,2.0,Y,Lagos,10316970.15
+ 19 ,Female,25.7kg/m2,none,N,?,4066242.83
+?,, 38.7 ,2.0,no, Lagos ,₦ 5090034.53 
+age_53,F,unknown,0.0,yes, Lagos ,"41,019,063"
+45.0,unknown,??,,non-smoker, Lagos ,₦42510283.27
+"34,",F, 29.3 ,3.0,smoker,Abuja,NULL
+?,M,42.5,1,Y,Oyo,₦16990072.3
+41yrs,M,unknown,three,yes,Kano,10163941.5 NGN
+55.0,male,32.7kg/m2,,No, Lagos ,NULL
+"35,",male,"34.1,",,Yes,Lagos,NULL
+37yrs,male,30.8kg/m2,0,no,abuja,55905226.8
+?,unknown,??,none,Y,?,₦49181187.89
+"55,",male,unknown,1,non-smoker,Kaduna,17091098.32
+ 40 ,Female,"22.7,",,N,Abuja,₦ 10760039.93 
+"33,",fem,18.5,1,no, Lagos ,₦7149033.0
+"36,",M,29.9,0.0,Yes,abuja,NULL
+"19,",,??,,non-smoker,Kaduna,"51,659,784"
+ 18 ,Male,26.3,,no,Rivers,₦3297284.78
+?,Male,31.2,none,N,Kaduna,₦15508397.4
+44.0,M,31.4kg/m2,none,Y,?,₦ 59334741.75 
+age_52,F,31.7kg/m2,2.0,yes,KANO,₦16781485.05
+ 18 ,fem,??,none,smoker,Lagos,"3,294,710"
+"59,",Female,unknown,,No, Lagos ,18194421.22 NGN
+33.0,F,unknown,none,N,Kaduna,NULL
+32yrs,Male, 30.8 ,3,non-smoker,Oyo,₦7880286.0
+ 30 ,unknown, 23.0 ,none,smoker,Oyo,"26,042,649"
+?,fem,"39.0,",0,yes,?,₦ 17784617.25 
+?,F,unknown,,yes,Oyo,₦14804715.3
+60yrs,Female,unknown,0.0,non-smoker,KANO,"18,944,845"
+?,fem,"25.1,",0,non-smoker,KANO,₦21381912.3
+"18,",fem, 30.4 ,3,yes,Enugu,"5,222,802"
+60.0,Male,32.8kg/m2,0.0,No, Lagos ,NULL
+"38,",fem, 38.4 ,3.0,Yes,Enugu,₦ 62923866.15 
+"37,",F,unknown,three,Yes,Oyo,₦60628528.65
+?,unknown,"34.1,",three,smoker, Lagos ,"8,969,596"
+age_51,unknown,??,0.0,no,KANO,14813520.6 NGN
+ 43 ,Female,27.4,"3,",Y,Enugu,12909326.1
+?,Male,50.4kg/m2,none,?,abuja,3657082.8
+45.0,Female,21.4kg/m2,none,smoker,?,₦ 10834179.38 
+ 52 ,fem,??,3,N,?,38989231.56
+ 18 ,F, 25.2 ,0,no,abuja,23277270.38
+"58,",M,??,"0,",non-smoker,Lagos,17763663.0
+ 28 ,Female, 36.4 ,none,No,Kaduna,76791838.71
+25yrs,M,34.5,0,yes,Kaduna,₦ 4532713.72 
+age_51,,24.8kg/m2,three,yes,Oyo,₦ 35951074.58 
+32.0,M, 37.1 ,"3,",Y,Lagos,₦9501515.32
+19yrs,unknown,"20.6,",0,yes,abuja,2597515.5
+"25,",unknown, 25.7 ,three,Y, Lagos ,₦3206480.4
+?,male, 23.7 ,2.0,Y,KANO,5226496.5
+19yrs,Female,unknown,0,yes,Enugu,3205323.38
+"41,",fem,33.0kg/m2,0,smoker,Kano,9856536.53 NGN
+49.0,Male,??,three,yes,Oyo,"15,572,218"
+age_42,male,unknown,1,?,Kano,10570083.3 NGN
+"62,",male,unknown,0,non-smoker,Kano,NULL
+52.0,Male, 24.3 ,three,no,KANO,37304755.2 NGN
+20yrs,,28.0,three,non-smoker,Enugu,₦ 26340569.62 
+22.0,,??,0.0,Yes,Rivers,₦ 3250098.0 
+?,F,"41.1,","0,",smoker,Kaduna,NULL
+60yrs,male, 25.7 ,three,Y,?,NULL
+ 39 ,F,unknown,none,?,Kaduna,NULL
+42.0,male,unknown,2,non-smoker,Lagos,"10,740,495"
+ 18 ,male,"33.5,",none,Yes,abuja,₦51926760.97
+27.0,,45.9kg/m2,"2,",N,?,NULL
+64.0,M,unknown,none,yes,Oyo,43996474.73
+51.0,M,unknown,none,N,abuja,15840737.55 NGN
+"62,",fem,"30.0,",three,no,Rivers,NULL
+19yrs,fem,"37.4,","0,",Yes,abuja,3207106.05
+ 26 ,F, 46.5 ,1,?,Kano,₦ 4390597.05 
+18yrs,M,31.7,three,Yes,Kano,₦ 51454750.8 
+?,Female,37.5,three,No,Abuja,"13,957,053"
+ 47 ,F,??,0,no,Kano,₦31318176.64
+ 46 ,,unknown,three,smoker,Kaduna,₦ 15145455.0 
+18.0,male, 30.1 ,three,Y,Rivers,1697259.9 NGN
+ 20 ,M,40.5kg/m2,,Y,abuja,₦2976679.95
+53yrs,Male, 22.9 ,three,no,KANO,NULL
+58.0,Male,22.8kg/m2,"0,",no,?,17750673.45 NGN
+34.0,Male,??,none,Y,?,8984285.47
+ 44 ,unknown, 30.7 ,three,No,abuja,11597140.65 NGN
+27.0,Female,20.0,"3,",Y,Kaduna,"24,630,742"
+26yrs,Male,17.7,0.0,yes,?,"4,021,424"
+age_37,F, 25.6 ,"1,",Y,?,₦30445295.18
+ 30 ,unknown,??,"3,",N,Rivers,₦8540145.75
+59.0,Female, 23.7 ,three,?,KANO,38518167.68 NGN
+"24,",male,??,"0,",no,Rivers,57189369.75 NGN
+ 41 ,,unknown,three,No,abuja,"12,807,433"
+?,F,"29.0,",,Y,abuja,₦40827655.88
+54yrs,Male,??,1.0,Yes, Lagos ,"15,675,828"
+?,unknown,"22.7,",,smoker,Kaduna,₦10478260.43
+31yrs,M,unknown,1.0,yes,Rivers,₦6661819.72
+"27,",F,unknown,0,N,?,"52,258,310"
+age_19,Male,"23.4,",none,non-smoker,Rivers,4370353.5
+ 40 ,Female,25.0,,Yes,Oyo,"9,890,262"
+ 36 ,Female,??,none,non-smoker,Rivers,"10,842,323"
+?,Female,37.5,three,No,Abuja,"13,957,053"
+"43,",fem,"25.3,",,No,Abuja,32657013.45
+?,fem,26.7kg/m2,3,N,?,21574063.57 NGN
+age_57,male,??,"4,",smoker,Kano,₦21591597.23
+?,Female,"42.1,",,?,Oyo,₦ 7686283.05 
+40.0,,28.7kg/m2,none,smoker,Kaduna,12089518.65 NGN
+age_38,M,"19.9,",three,N,Enugu,"10,700,854"
+?,F,unknown,"1,",no,?,NULL
+ 47 ,Male,unknown,,?,Rivers,12802007.7
+62yrs,Male,unknown,three,N,abuja,NULL
+"55,",fem, 37.7 ,,?,Lagos,45095370.82 NGN
+40yrs,Female,29.9,three,non-smoker,Oyo,NULL
+33yrs,Female,39.8,three,?,Rivers,7193485.2
+?,Female,25.5kg/m2,2,Y,KANO,"13,837,885"
+"24,",unknown,"32.0,",none,N,Abuja,2972372.85 NGN
+40yrs,male,29.4,three,N,Kaduna,"9,590,405"
+?,fem,30.6kg/m2,2,Yes,Enugu,10885084.65 NGN
+57.0,fem,34.0kg/m2,0,Yes,Lagos,17034991.35 NGN
+51.0,Male,??,none,No,Abuja,"14,079,242"
+"18,",F,??,"0,",Yes,Kaduna,1703911.05 NGN
+age_26,Male,"29.9,",1,no,Kaduna,₦5089465.2
+?,fem,33.7kg/m2,none,smoker,Rivers,"3,747,622"
+"56,",M,"34.4,",none,smoker,Abuja,15891338.55
+age_57,unknown, 30.5 ,"0,",Y,KANO,"17,761,163"
+18.0,fem,unknown,0,No,Kaduna,3326401.8 NGN
+53yrs,male,unknown,none,No,Lagos,31793727.0
+32yrs,M,17.8kg/m2,2.0,?,Rivers,49101279.45 NGN
+ 59 ,,29.8,"3,",No,KANO,NULL
+53.0,fem,32.3,none,No,KANO,₦ 43779723.54 
+age_21,, 21.9 ,2,No,abuja,4770765.15
+"48,",unknown,"27.9,",4,smoker,Rivers,16522762.05
+?,Female,unknown,three,yes,Abuja,₦58189028.4
+age_18,M,31.4,4.0,yes,Enugu,₦6841782.75
+"40,",Male,28.1kg/m2,1,Yes,Lagos,₦ 33497350.2 
+ 61 ,male,??,"1,",yes,Lagos,₦ 71105820.0 
+57yrs,F, 18.3 ,none,non-smoker,abuja,NULL
+61yrs,fem, 25.1 ,0,Y, Lagos ,"36,769,637"
+?,,"17.3,",none,?,Rivers,NULL
+59yrs,male,unknown,0,yes, Lagos ,₦18187488.6
+28yrs,male,"27.5,",three,no,Rivers,₦30266506.69
+?,Male, 30.0 ,three,non-smoker,Rivers,33216048.0
+?,,"33.7,",0,Yes,abuja,₦ 16464368.62 
+age_20,M,"27.9,",three,no,Rivers,₦2950534.05
+age_47,Male,"29.5,",1,N,Kaduna,₦13396401.82
+61.0,Male,33.5,none,smoker,Lagos,NULL
+?,Female,unknown,,No,Enugu,19528741.57
+?,fem, 30.6 ,three,non-smoker,Lagos,₦ 2459344.65 
+age_25,unknown,20.8kg/m2,,Y,Abuja,NULL
+ 45 ,, 27.5 ,3.0,yes,KANO,₦ 12922950.0 
+"23,",fem,"39.3,",2,Y,Enugu,₦ 5250918.45 
+ 18 ,Male,33.9kg/m2,"0,",yes,Kaduna,₦ 17223952.28 
+?,M,28.7kg/m2,3.0,no,Kaduna,15396663.15
+?,fem,??,three,N,Kano,₦14250859.58
+60yrs,M,"28.7,",1.0,N,?,19837039.5 NGN
+?,Male,"42.1,",1.0,?,Rivers,₦4857653.55
+19yrs,unknown,unknown,1.0,yes,KANO,"4,095,162"
+?,unknown, 32.6 ,none,Yes,?,₦ 11162251.5 
+?,male,19.8kg/m2,none,no,?,5068365.0 NGN
+33.0,unknown,"35.8,",1.0,Y,Abuja,₦ 57424124.25 
+age_44,unknown,39.0kg/m2,none,Yes,KANO,64475187.75
+"28,",,"31.7,",none,?,Enugu,₦52008220.8
+ 38 ,unknown,??,three,?,?,8961577.05 NGN
+52yrs,F,??,,Yes,Kaduna,"14,586,795"
+ 21 ,,??,0,no,abuja,₦3156170.1
+30yrs,Male,35.5,0.0,Yes,Enugu,"55,425,385"
+ 50 ,F,36.2,0.0,non-smoker,Abuja,NULL
+23.0,unknown,unknown,none,non-smoker,abuja,61356299.25 NGN
+42.0,unknown,"33.2,",three,Y,KANO,NULL
+ 57 ,,unknown,0.0,smoker,KANO,"31,063,531"
+age_45,F, 36.5 ,none,no,Enugu,64140753.3
+23.0,, 26.5 ,,non-smoker, Lagos ,2723813.85 NGN
+age_29,unknown, 22.9 ,0,Yes, Lagos ,24208143.07
+?,Female,27.8,2,N,Kaduna,9683793.97
+32yrs,fem, 29.6 ,,non-smoker,?,6844263.15 NGN
+50yrs,F,unknown,"1,",non-smoker, Lagos ,₦62878645.5
+"20,",unknown,"24.4,",,non-smoker,Abuja,₦ 39188512.16 
+?,Female,22.6kg/m2,0,smoker,Oyo,3686253.0
+?,M,unknown,three,smoker,Abuja,"10,172,031"
+23yrs,F,33.4,0.0,N,abuja,16193906.0
+?,fem, 25.8 ,"0,",No,?,4742181.0
+?,M,"23.2,",,non-smoker,KANO,₦ 37622651.76 
+?,F,36.3,3.0,Y,abuja,"9,827,625"
+43.0,Female,26.7kg/m2,three,no,Oyo,"33,717,900"
+"18,",Male,??,0,No,KANO,₦ 3311546.18 
+age_37,Male,??,4,smoker,Rivers,₦ 60273369.0 
+"53,",,28.6,3,No,Lagos,16880131.5 NGN
+ 31 ,Male,"36.6,","2,",No,?,₦7424638.05
+ 63 ,,"31.4,",,No,Rivers,20961683.32
+?,Female,25.9,none,smoker,abuja,6359838.97
+?,,??,4,smoker,Kaduna,6756993.6
+ 59 ,,29.8,"3,",No,KANO,NULL
+"42,",unknown,unknown,none,Y,Kaduna,10568248.5 NGN
+?,,"25.2,",none,No, Lagos ,"3,068,528"
+age_23,F,unknown,0,smoker,Enugu,₦ 2740264.5 
+ 31 ,unknown,"39.5,",three,no,Abuja,5813601.15
+"54,",F,unknown,1,No,Oyo,16958901.82
+age_56,male,40.3kg/m2,three,non-smoker,KANO,₦ 15903577.5 
+46yrs,male, 30.5 ,,Yes,Kano,61080826.58
+ 18 ,F, 25.2 ,0,no,abuja,23277270.38
+"47,",F,"24.1,","1,",smoker,Enugu,"39,354,870"
+18yrs,F,21.8,2.0,Yes,Rivers,NULL
+"18,",F, 23.0 ,,no,Kaduna,NULL
+ 18 ,F,28.3kg/m2,1.0,no,abuja,NULL
+ 44 ,Female,unknown,1.0,Yes,Enugu,₦10721209.2
+?,Female,unknown,none,yes, Lagos ,2755922.85
+age_50,Male,unknown,none,smoker,Enugu,₦45426964.41
+"23,",Male, 36.7 ,"2,",No,?,"57,767,442"
+?,fem,unknown,"1,",Y,Abuja,6365385.07
+58yrs,M,unknown,,?, Lagos ,₦ 17916891.52 
+53yrs,Female, 26.6 ,"0,",non-smoker,?,₦ 15533461.5 
+age_24,Male,unknown,,No,?,4276025.62
+"34,",F, 29.3 ,3.0,smoker,Abuja,NULL
+?,male,34.2kg/m2,three,non-smoker,Lagos,"7,867,840"
+"22,",, 28.3 ,none,non-smoker,Kaduna,"3,958,564"
+age_62,unknown,27.6kg/m2,1,no,?,₦ 20906499.75 
+36yrs,M,"41.9,","3,",no, Lagos ,₦ 65630005.58 
+age_61,,44.0,0,Y,Kano,₦ 19595824.5 
+"24,",F,29.8kg/m2,"0,",non-smoker,Kaduna,₦27972632.55
+27yrs,Female,??,three,No,KANO,5366998.5 NGN
+?,M,??,,Y,?,12780039.0
+"57,",male,"43.7,",1,smoker,Enugu,₦ 17364195.0 
+35.0,M,unknown,,yes,Enugu,₦ 31476140.4 
+age_50,unknown,27.5,"1,",no,Abuja,NULL
+?,Male,23.4,none,no,Oyo,2954421.0
+?,Female,30.4kg/m2,0,non-smoker,Oyo,"4,112,922"
+?,M,??,"5,",?,Enugu,"12,873,453"
+60yrs,M,"28.7,",1.0,N,?,19837039.5 NGN
+"28,",Male,"28.9,","1,",N,KANO,₦6506602.8
+?,unknown,23.9,"5,",smoker,Enugu,7620144.0
+ 36 ,fem,22.6,"2,",?,KANO,27912393.0
+?,Male,unknown,three,yes,Enugu,"27,335,177"
+51.0,F, 18.1 ,three,yes,Abuja,14466378.75
+43yrs,Female,"35.6,",1.0,No,Lagos,11018589.9 NGN
+"47,",unknown,??,1,yes,KANO,₦ 32968015.35 
+ 55 ,Female,??,"0,",No,KANO,₦16070466.0
+52yrs,M,32.2kg/m2,"3,",no,Lagos,NULL
+?,F,"27.1,",1.0,non-smoker,abuja,₦ 7119516.0 
+ 32 ,Female, 35.2 ,,yes,Kano,"7,005,960"
+?,Male,??,"3,",yes,abuja,₦18545320.5
+age_32,,31.5kg/m2,"1,",yes, Lagos ,₦6114745.5
+54yrs,fem,"32.7,","0,",N,Kano,16385899.8
+"25,",Male, 30.3 ,"0,",smoker,Kano,₦3949488.0
+"41,",male,??,1.0,No, Lagos ,20588207.76
+?,F,39.7kg/m2,,Y,Lagos,21478546.5
+"31,",F, 25.9 ,none,yes,Enugu,"28,799,916"
+"29,",unknown,37.3kg/m2,none,smoker,Enugu,6087174.15
+39.0,male,45.4kg/m2,none,no,Oyo,₦ 9534406.05 
+?,Male, 44.2 ,2.0,Yes,Enugu,6399248.7 NGN
+22yrs,M,30.4kg/m2,,smoker,KANO,50861322.0 NGN
+ 19 ,male,34.1,,?,Kano,1892163.0
+"33,",,42.4,"5,",yes,Enugu,9999364.5 NGN
+27yrs,unknown,"32.4,",,?, Lagos ,NULL
+age_39,fem, 26.3 ,2.0,smoker,abuja,₦10802551.28
+46yrs,M,35.5kg/m2,none,yes,Rivers,63167497.05
+ 18 ,F,28.3kg/m2,1.0,no,abuja,NULL
+age_34,M,??,,yes,Rivers,NULL
+"26,",male,unknown,2.0,no, Lagos ,NULL
+31yrs,Male,??,3.0,No,Kaduna,58119532.65
+"29,",fem,31.7,,No,Lagos,6650081.55
+30.0,unknown,30.9kg/m2,,N,Kaduna,₦ 7988476.5 
+?,male,20.2,0.0,no,KANO,3791727.98 NGN
+age_37,,??,2,yes,Kaduna,₦10029646.95
+?,unknown,"33.9,",none,smoker,KANO,₦ 70333891.8 
+60.0,unknown,"38.1,","0,",yes,Kano,"18,973,055"
+age_21,M,"35.5,",0.0,Yes,KANO,2298704.55 NGN
+age_58,unknown,34.4kg/m2,none,Yes,Lagos,17615901.15 NGN
+26.0,F, 33.9 ,three,non-smoker,Enugu,NULL
+19yrs,unknown, 20.3 ,"0,",Yes,Oyo,1863390.0
