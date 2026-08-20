@@ -170,11 +170,9 @@ elif page == "Prediction Page":
     smoker = 1 if smoker == "Yes" else 0
 
 
-    state = st.selectbox(
-        "State",
-        data["State"].unique()
-    )
+    state = st.selectbox("State", data["State"].unique().tolist())
 
+    state = data["State"].unique().tolist().index(state)
 
     if st.button("Predict Medical Cost"):
 
@@ -233,28 +231,16 @@ elif page == "Model Performance Page":
     col1, col2, col3, col4 = st.columns(4)
 
     with col1:
-        st.metric(
-            "R² Score",
-            "0.10"
-        )
+        st.metric("Train_R²", 0.65)
 
     with col2:
-        st.metric(
-            "MAE",
-            "₦12953810.63"
-        )
+        st.metric("Test_R²", 0.05)
 
     with col3:
-        st.metric(
-            "RMSE",
-            "₦16475160.17"
-        )
-    with col4:
-        st.metric(
-            "MSE",
-            "₦271430902601922.09"
-        )
+        st.metric("Train_RMSE", "₦6,419,626.59")
 
+    with col4:
+        st.metric("Test_RMSE", "₦8,941,840.89")
 
     # Feature Importance
 
