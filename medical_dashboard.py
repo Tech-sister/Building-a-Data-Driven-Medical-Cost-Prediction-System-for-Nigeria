@@ -103,72 +103,52 @@ def filter_data(df, state, smoker):
 # ============================================================
 # DISPLAY MAIN METRICS
 # ============================================================
+def format_naira(val):
+  """Formats large amounts to Millions (M) or Billions (B) with 2 decimals."""
+  if val >= 1_000_000_000:
+    return f"₦{val / 1_000_000_000:.2f}B"
+  elif val >= 1_000_000:
+    return f"₦{val / 1_000_000:.2f}M"
+  else:
+    return f"₦{val:,.0f}"
+
 
 def display_metrics(filtered_df):
+  col1, col2, col3, col4, col5 = st.columns(5)
 
-    col1, col2, col3, col4, col5 = st.columns(5)
+  # Total Patients
+  with col1:
+    st.metric("👥 Total Patients", len(filtered_df))
 
-    # Total Patients
-    with col1:
-        st.metric(
-            "👥 Total Patients",
-            len(filtered_df)
-        )
+  # Average Hospital Bill
+  with col2:
+    avg_bill = (
+        filtered_df["Hospital Bill"].mean() if len(filtered_df) > 0 else 0
+    )
+    st.metric("💰 Average Hospital Bill", format_naira(avg_bill))
 
-    # Average Hospital Bill
-    with col2:
+  # Total Bills Paid
+  with col3:
+    total_bill = (
+        filtered_df["Hospital Bill"].sum() if len(filtered_df) > 0 else 0
+    )
+    st.metric("💵 Total Bills Paid", format_naira(total_bill))
 
-        avg_bill = (
-            filtered_df["Hospital Bill"].mean()
-            if len(filtered_df) > 0
-            else 0
-        )
+  # Top State
+  with col4:
+    if len(filtered_df) > 0:
+      top_state = filtered_df["State"].mode()[0]
+    else:
+      top_state = "N/A"
+    st.metric("📍 Top State", top_state)
 
-        st.metric(
-            "💰 Average Hospital Bill",
-            f"₦{avg_bill:,.0f}"
-        )
+  # Highest Bill
+  with col5:
+    highest_bill = (
+        filtered_df["Hospital Bill"].max() if len(filtered_df) > 0 else 0
+    )
+    st.metric("🏥 Highest Bill", format_naira(highest_bill))
 
-    # Total Bills
-    with col3:
-
-        total_bill = (
-            filtered_df["Hospital Bill"].sum()
-            if len(filtered_df) > 0
-            else 0
-        )
-
-        st.metric(
-            "💵 Total Bills Paid",
-            f"₦{total_bill:,.0f}"
-        )
-
-    # Top State
-    with col4:
-
-        if len(filtered_df) > 0:
-            top_state = filtered_df["State"].mode()[0]
-        else:
-            top_state = "N/A"
-
-        st.metric(
-            "📍 Top State",
-            top_state
-        )
-
-    # Highest Bill
-    with col5:
-
-        highest_bill = (
-            filtered_df["Hospital Bill"].max()
-            if len(filtered_df) > 0
-            else 0
-        )
-
-        st.metric(
-            "🏥 Highest Bill",
-            f"₦{highest_bill:,.0f}"
-        )
 
 
 # ============================================================
