@@ -48,7 +48,7 @@ def load_model_artifact():
 def load_data():
 
     try:
-        df = pd.read_csv("data\clean_nigeria_medical_insurance.csv")
+        df = pd.read_csv("data/clean_nigeria_medical_insurance.csv")
 
         return df
 
