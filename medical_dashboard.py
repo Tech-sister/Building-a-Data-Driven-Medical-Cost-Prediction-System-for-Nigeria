@@ -5,9 +5,6 @@ import numpy as np
 import joblib
 
 
-# ============================================================
-# PAGE CONFIGURATION
-# ============================================================
 
 st.set_page_config(
     page_title="Medical Cost Prediction System",
@@ -16,9 +13,7 @@ st.set_page_config(
 )
 
 
-# ============================================================
-# LOAD MODEL ARTIFACTS
-# ============================================================
+
 
 @st.cache_resource
 def load_model_artifact():
@@ -40,9 +35,6 @@ def load_model_artifact():
         st.stop()
 
 
-# ============================================================
-# LOAD DATA
-# ============================================================
 
 @st.cache_data
 def load_data():
@@ -60,10 +52,6 @@ def load_data():
         st.error(f"An error occurred while loading the dataset: {e}")
         st.stop()
 
-
-# ============================================================
-# SIDEBAR FILTERS
-# ============================================================
 
 def sidebar_filters(df):
 
@@ -84,10 +72,6 @@ def sidebar_filters(df):
     return state, smoker
 
 
-# ============================================================
-# FILTER DATA
-# ============================================================
-
 def filter_data(df, state, smoker):
 
     filtered_df = df[df["State"].isin(state)]
@@ -100,9 +84,6 @@ def filter_data(df, state, smoker):
     return filtered_df
 
 
-# ============================================================
-# DISPLAY MAIN METRICS
-# ============================================================
 def format_naira(val):
   """Formats large amounts to Millions (M) or Billions (B) with 2 decimals."""
   if val >= 1_000_000_000:
@@ -151,9 +132,6 @@ def display_metrics(filtered_df):
 
 
 
-# ============================================================
-# HOME PAGE
-# ============================================================
 
 def homepage(filtered_df):
 
@@ -193,9 +171,6 @@ def homepage(filtered_df):
             f"{avg_bmi:,.2f}"
         )
 
-    # --------------------------------------------------------
-    # TOP STATES
-    # --------------------------------------------------------
 
     st.subheader("🏆 Top States by Hospital Bills")
 
@@ -223,9 +198,6 @@ def homepage(filtered_df):
             use_container_width=True
         )
 
-    # --------------------------------------------------------
-    # SMOKER DISTRIBUTION
-    # --------------------------------------------------------
 
     st.subheader("🚬 Smoker Distribution")
 
@@ -246,9 +218,6 @@ def homepage(filtered_df):
         )
 
 
-# ============================================================
-# EDA DASHBOARD
-# ============================================================
 
 def eda_dashboard(filtered_df):
 
@@ -261,10 +230,6 @@ def eda_dashboard(filtered_df):
         )
 
         return
-
-    # --------------------------------------------------------
-    # UNIVARIATE ANALYSIS
-    # --------------------------------------------------------
 
     col1, col2 = st.columns(2)
 
@@ -302,9 +267,6 @@ def eda_dashboard(filtered_df):
             use_container_width=True
         )
 
-    # --------------------------------------------------------
-    # HOSPITAL BILL + SMOKER
-    # --------------------------------------------------------
 
     col3, col4 = st.columns(2)
 
@@ -342,9 +304,6 @@ def eda_dashboard(filtered_df):
             use_container_width=True
         )
 
-    # --------------------------------------------------------
-    # BIVARIATE ANALYSIS
-    # --------------------------------------------------------
 
     st.header("📈 Bivariate Analysis")
 
@@ -399,9 +358,6 @@ def eda_dashboard(filtered_df):
         )
 
 
-# ============================================================
-# DISPLAY DATA TABLE
-# ============================================================
 
 def table_data(filtered_df):
 
@@ -419,10 +375,6 @@ def table_data(filtered_df):
             "No patient data to display."
         )
 
-
-# ============================================================
-# GET FILTERED OPTIONS
-# ============================================================
 
 def get_filtered_options(
     df,
@@ -490,9 +442,6 @@ def get_filtered_options(
     return options
 
 
-# ============================================================
-# PREDICT MEDICAL BILL
-# ============================================================
 
 def predict_bill(
     patient_data,
@@ -591,9 +540,6 @@ def predict_bill(
         return None
 
 
-# ============================================================
-# PREDICTION INTERFACE
-# ============================================================
 
 def prediction_interface(df):
 
@@ -609,10 +555,6 @@ def prediction_interface(df):
     model, scaler, label_encoder, feature_columns = (
         load_model_artifact()
     )
-
-    # --------------------------------------------------------
-    # INPUT FIELDS
-    # --------------------------------------------------------
 
     col1, col2 = st.columns(2)
 
@@ -657,11 +599,6 @@ def prediction_interface(df):
             "State *",
             options=sorted(df["State"].unique())
         )
-
-    # --------------------------------------------------------
-    # PREDICTION BUTTON
-    # --------------------------------------------------------
-
     if st.button(
         "🔮 Get Medical Bill Prediction",
         use_container_width=True
@@ -742,10 +679,6 @@ def prediction_interface(df):
             )
 
 
-# ============================================================
-# MODEL PERFORMANCE PAGE
-# ============================================================
-
 def model_performance_page():
 
     st.header("🤖 Model Performance")
@@ -780,11 +713,6 @@ def model_performance_page():
             "₦8,941,840.89"
         )
 
-
-# ============================================================
-# MAIN FUNCTION
-# ============================================================
-
 def main():
 
     # Load dataset
@@ -793,9 +721,6 @@ def main():
     if df is None:
         return
 
-    # --------------------------------------------------------
-    # SIDEBAR NAVIGATION
-    # --------------------------------------------------------
 
     st.sidebar.title("📌 Dashboard Navigation")
 
@@ -808,11 +733,6 @@ def main():
             "Model Performance"
         ]
     )
-
-    # --------------------------------------------------------
-    # SIDEBAR FILTERS
-    # --------------------------------------------------------
-
     state, smoker_filter = sidebar_filters(df)
 
     filtered_df = filter_data(
@@ -821,19 +741,12 @@ def main():
         smoker_filter
     )
 
-    # --------------------------------------------------------
-    # MAIN TITLE
-    # --------------------------------------------------------
-
     st.title(
         "⚕️ Medical Cost Prediction System"
     )
 
     st.markdown("---")
 
-    # --------------------------------------------------------
-    # DISPLAY SELECTED PAGE
-    # --------------------------------------------------------
 
     if page == "Home Page":
 
@@ -863,10 +776,6 @@ def main():
 
         model_performance_page()
 
-
-# ============================================================
-# RUN APPLICATION
-# ============================================================
 
 if __name__ == "__main__":
     main()
